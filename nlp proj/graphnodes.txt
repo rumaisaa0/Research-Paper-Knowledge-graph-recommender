@@ -1,0 +1,3002 @@
+[
+   {
+       "node_1": "existing backtracking methods",
+       "node_2": "meaningful progress toward solving a search problem",
+       "edge": "Because of their occasional need to return to shallow points in a search tree, existing backtracking methods can sometimes erase meaningful progress toward solving a search problem."
+   },
+   {
+       "node_1": "backtrack points",
+       "node_2": "deeper in the search space",
+       "edge": "In this paper, we present a method by which backtrack points can be moved deeper in the search space, thereby avoiding this difficulty."
+   },
+   {
+       "node_1": "dependency-directed backtracking",
+       "node_2": "useful control information",
+       "edge": "The technique developed is a variant of dependency-directed backtracking that uses only polynomial space while still providing useful control information and retaining the completeness guarantees provided by earlier approaches."
+   }
+][
+   {
+       "node_1": "Market price systems",
+       "node_2": "Mechanisms for decentralized decision making",
+       "edge": "Under certain conditions, market price systems provide effective decentralization of decision making with minimal communication overhead. This is a well-understood class of mechanisms."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Distributed problem solving",
+       "edge": "In a market-oriented programming approach to distributed problem solving, we derive the activities and resource allocations for a set of computational agents by computing the competitive equilibrium of an artificial economy."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Artificial economy",
+       "edge": "We compute the competitive equilibrium of an artificial economy to derive the activities and resource allocations for a set of computational agents in market-oriented programming approach."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Computational agents",
+       "edge": "In a market-oriented programming approach, we derive the activities and resource allocations for a set of computational agents by computing the competitive equilibrium of an artificial economy."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Computational market structures",
+       "edge": "WALRAS provides basic constructs for defining computational market structures."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Price equilibria",
+       "edge": "WALRAS provides protocols for deriving their corresponding price equilibria."
+   }, {
+       "node_1": "Artificial economy",
+       "node_2": "Competitive equilibrium",
+       "edge": "We compute the competitive equilibrium of an artificial economy to derive the activities and resource allocations for a set of computational agents."
+   }, {
+       "node_1": "Competitive equilibrium",
+       "node_2": "Activities and resource allocations",
+       "edge": "By computing the competitive equilibrium of an artificial economy, we can derive the activities and resource allocations for a set of computational agents."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Multicommodity flow problem",
+       "edge": "In a particular realization of this approach for a form of multicommodity flow problem,"
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Efficient distributed resource allocation",
+       "edge": "We see that careful construction of the decision process according to economic principles can lead to efficient distributed resource allocation."
+   }, {
+       "node_1": "Market price systems",
+       "node_2": "Behavior analysis",
+       "edge": "The behavior of the system can be meaningfully analyzed in economic terms."
+   }
+] 
+[
+   {
+       "node_1": "GSAT",
+       "node_2": "propositional satisfiability",
+       "edge": "GSAT is an approximation procedure for propositional satisfiability."
+   },
+   {
+       "node_1": "hill-climbing",
+       "node_2": "greedy",
+       "edge": "GSAT performs greedy hill-climbing on the number of satisfied clauses in a truth assignment."
+   },
+   {
+       "node_1": "score",
+       "node_2": "mean number of satisfied clauses",
+       "edge": "when applied to randomly generated 3SAT problems, there is a very simple scaling with problem size for both the mean number of satisfied clauses and the mean branching rate."
+   },
+   {
+       "node_1": "branching rate",
+       "node_2": "mean branching rate",
+       "edge": "when applied to randomly generated 3SAT problems, there is a very simple scaling with problem size for both the mean number of satisfied clauses and the mean branching rate."
+   },
+   {
+       "node_1": "hill-climbing phase",
+       "node_2": "rapid hill-climbing",
+       "edge": "describe in detail the two phases of search: rapid hill-climbing followed by a long plateau search."
+   },
+   {
+       "node_1": "plateau search",
+       "node_2": "long plateau search",
+       "edge": "describe in detail the two phases of search: rapid hill-climbing followed by a long plateau search."
+   },
+   {
+       "node_1": "gradient",
+       "node_2": "average gradient",
+       "edge": "conjecture that both the average score and average branching rate decay exponentially during plateau search."
+   }
+][
+   {
+       "node_1": "learning programs",
+       "node_2": "logic programs with cut",
+       "edge": "The paper investigates the difficulties of learning programs with cut, as it is a natural and reasonable approach for programs that normally use cut. However, current induction techniques should probably be restricted to purely declarative logic languages due to the difficulties caused by intensional evaluation."
+   }, {
+       "node_1": "learning programs",
+       "node_2": "base program",
+       "edge": "The paper proposes a scheme of generating a candidate base program that covers positive examples, which can then be made consistent by inserting cut where appropriate."
+   }, {
+       "node_1": "candidate base program",
+       "node_2": "consistency",
+       "edge": "The paper investigates the difficulties caused by intensional evaluation in making a candidate base program consistent by inserting cut where appropriate."
+   }, {
+       "node_1": "extensional evaluation method",
+       "node_2": "clauses containing cut",
+       "edge": "Clauses containing cut cannot be learned using an extensional evaluation method, as is done in most learning systems, due to their procedural meaning."
+   }
+][
+  {
+    "node_1": "note taking",
+    "node_2": "computer",
+    "edge": "The text mentions that recording information on a computer is less efficient but more powerful than doing it on paper, indicating that note taking and computers are related concepts."
+  },
+  {
+    "node_1": "note taking agent",
+    "node_2": "user interface",
+    "edge": "The text describes a new note taking software with an agent that acts for the user and constructs a custom user interface, implying that there is a relationship between the note taking agent and the user interface."
+  },
+  {
+    "node_1": "agent",
+    "node_2": "learning-apprentice software-agent",
+    "edge": "The text refers to the note taking agent as a learning-apprentice software-agent, suggesting that there is a connection between the two terms."
+  },
+  {
+    "node_1": "performance system",
+    "node_2": "user interface",
+    "edge": "The text explains that the performance system uses learned information to generate completion strings and construct a user interface, implying that there is a relationship between the performance system and the user interface."
+  },
+  {
+    "node_1": "performance system",
+    "node_2": "machine learning component",
+    "edge": "The text mentions that the performance system uses learned information, which implies that there is a link between the performance system and the machine learning component."
+  },
+  {
+    "node_1": "user interface",
+    "node_2": "custom, button-box user interface",
+    "edge": "The text describes how the system constructs a custom user interface on request, indicating that there is a connection between the user interface and the custom, button-box user interface."
+  }
+][
+   {
+       "node_1": "TKRS",
+       "node_2": "knowledge base",
+       "edge": "A TKRS is a tool used for designing and using knowledge bases."
+   },
+   {
+       "node_1": "terminological language",
+       "node_2": "concept language",
+       "edge": "TKRSs make use of terminological languages, which are also called concept languages."
+   },
+   {
+       "node_1": "ALCNR",
+       "node_2": "highly expressive terminological language",
+       "edge": "The capabilities of this TKRS go beyond those of presently available ones because it uses a highly expressive terminological language called ALCNR, which includes general complements of concepts, number restrictions, and role conjunction."
+   },
+   {
+       "node_1": "inclusion statements",
+       "node_2": "general concepts",
+       "edge": "This TKRS allows to express inclusion statements between general concepts, which is often required in practical applications."
+   },
+   {
+       "node_1": "terminological cycles",
+       "node_2": "inclusion statements",
+       "edge": "Terminological cycles are a particular case of inclusion statements between general concepts."
+   },
+   {
+       "node_1": "desirable TKRS-deduction services",
+       "node_2": "ALCNR-knowledge bases",
+       "edge": "A number of desirable TKRS-deduction services, like satisfiability, subsumption, and instance checking, are decidable for reasoning in ALCNR-knowledge bases."
+   },
+   {
+       "node_1": "constraint systems",
+       "node_2": "calculus",
+       "edge": "Our calculus extends the general technique of constraint systems for reasoning in ALCNR-knowledge bases."
+   }
+][
+  {
+    "node_1": "formalism",
+    "node_2": "dynamic environments",
+    "edge": "A formalism is presented for computing and organizing actions for autonomous agents in dynamic environments."
+  },
+  {
+    "node_1": "autonomous agents",
+    "node_2": "formalism",
+    "edge": "A formalism is presented for computing and organizing actions for autonomous agents in dynamic environments."
+  },
+  {
+    "node_1": "dynamic environments",
+    "node_2": "autonomous agents",
+    "edge": "A formalism is presented for computing and organizing actions for autonomous agents in dynamic environments."
+  },
+  {
+    "node_1": "teleo-reactive (T-R) programs",
+    "node_2": "continuous computation",
+    "edge": "We introduce the notion of teleo-reactive (T-R) programs whose execution entails the construction of circuitry for the continuous computation of the parameters and conditions on which agent action is based."
+  },
+  {
+    "node_1": "T-R programs",
+    "node_2": "compact circuitry",
+    "edge": "In addition to continuous feedback, T-R programs support parameter binding and recursion. A primary difference between T-R programs and many other circuit-based systems is that the circuitry of T-R programs is more compact;"
+  },
+  {
+    "node_1": "T-R programs",
+    "node_2": "run time construction",
+    "edge": "it does not have to anticipate all the contingencies that might arise over all possible runs."
+  },
+  {
+    "node_1": "T-R programs",
+    "node_2": "intuitive and easy to write",
+    "edge": "T-R programs are written in a form that is compatible with automatic planning and learning methods. We briefly describe some experimental applications of T-R programs in the control of simulated and actual mobile robots."
+  }
+][
+   {
+       "node_1": "learning",
+       "node_2": "acquisition",
+       "edge": "Seemingly minor aspect of language acquisition is learning, which has generated heated debates since 1986."
+   },
+   {
+       "node_1": "English verbs",
+       "node_2": "past tense",
+       "edge": "The past tense of English verbs is a topic for testing the adequacy of cognitive modeling."
+   },
+   {
+       "node_1": "ANNs",
+       "node_2": "SPA",
+       "edge": "Several artificial neural networks (ANNs) have been implemented, and a challenge for better symbolic models has been posed. In this paper, we present a general-purpose Symbolic Pattern Associator (SPA) based upon the decision-tree learning algorithm ID3."
+   },
+   {
+       "node_1": "head-to-head",
+       "node_2": "comparisons",
+       "edge": "We conduct extensive head-to-head comparisons on the generalization ability between ANN models and the SPA under different representations."
+   },
+   {
+       "node_1": "better symbolic models",
+       "node_2": "ANN models",
+       "edge": "We conclude that the SPA generalizes the past tense of unseen verbs better than ANN models by a wide margin,"
+   },
+   {
+       "node_1": "decision-tree learning algorithms",
+       "node_2": "default strategy",
+       "edge": "we discuss a new default strategy for decision-tree learning algorithms."
+   }
+][
+   {
+       "node_1": "substructure discovery",
+       "node_2": "discovering knowledge in structural data",
+       "edge": "essential component"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "representing structural concepts",
+       "edge": "compresses original data"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "hierarchical description",
+       "edge": "multiple passes of SUBDUE"
+   }, {
+       "node_1": "inexact graph match",
+       "node_2": "similar instances of a substructure",
+       "edge": "IDENTIFIES"
+   }, {
+       "node_1": "approximate measure of closeness",
+       "node_2": "two substructures",
+       "edge": "finds an approximate measure of closeness"
+   }, {
+       "node_1": "background knowledge",
+       "node_2": "guides the search towards more appropriate substructures",
+       "edge": "used by SUBDUE"
+   }
+] 
+
+In addition, based on the context, we can also include the relationships between the terms "graph", "database", and "data". Here's an updated version:
+
+[
+   {
+       "node_1": "substructure discovery",
+       "node_2": "discovering knowledge in structural data",
+       "edge": "essential component"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "representing structural concepts",
+       "edge": "compresses original data"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "hierarchical description",
+       "edge": "multiple passes of SUBDUE"
+   }, {
+       "node_1": "graph match",
+       "node_2": "similar instances of a substructure",
+       "edge": "IDENTIFIES"
+   }, {
+       "node_1": "approximate measure of closeness",
+       "node_2": "two substructures",
+       "edge": "finds an approximate measure of closeness"
+   }, {
+       "node_1": "background knowledge",
+       "node_2": "guides the search towards more appropriate substructures",
+       "edge": "used by SUBDUE"
+   }, {
+       "node_1": "graph",
+       "node_2": "database",
+       "edge": "represents"
+   }, {
+       "node_1": "data",
+       "node_2": "original data",
+       "edge": "compresses"
+   }
+] 
+
+
+ERROR ### Here is the buggy response:  [
+   {
+       "node_1": "substructure discovery",
+       "node_2": "discovering knowledge in structural data",
+       "edge": "essential component"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "representing structural concepts",
+       "edge": "compresses original data"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "hierarchical description",
+       "edge": "multiple passes of SUBDUE"
+   }, {
+       "node_1": "inexact graph match",
+       "node_2": "similar instances of a substructure",
+       "edge": "IDENTIFIES"
+   }, {
+       "node_1": "approximate measure of closeness",
+       "node_2": "two substructures",
+       "edge": "finds an approximate measure of closeness"
+   }, {
+       "node_1": "background knowledge",
+       "node_2": "guides the search towards more appropriate substructures",
+       "edge": "used by SUBDUE"
+   }
+] 
+
+In addition, based on the context, we can also include the relationships between the terms "graph", "database", and "data". Here's an updated version:
+
+[
+   {
+       "node_1": "substructure discovery",
+       "node_2": "discovering knowledge in structural data",
+       "edge": "essential component"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "representing structural concepts",
+       "edge": "compresses original data"
+   }, {
+       "node_1": "substructure discovery",
+       "node_2": "hierarchical description",
+       "edge": "multiple passes of SUBDUE"
+   }, {
+       "node_1": "graph match",
+       "node_2": "similar instances of a substructure",
+       "edge": "IDENTIFIES"
+   }, {
+       "node_1": "approximate measure of closeness",
+       "node_2": "two substructures",
+       "edge": "finds an approximate measure of closeness"
+   }, {
+       "node_1": "background knowledge",
+       "node_2": "guides the search towards more appropriate substructures",
+       "edge": "used by SUBDUE"
+   }, {
+       "node_1": "graph",
+       "node_2": "database",
+       "edge": "represents"
+   }, {
+       "node_1": "data",
+       "node_2": "original data",
+       "edge": "compresses"
+   }
+] 
+ 
+
+
+[
+   {
+      "node_1": "Theory revision problem",
+      "node_2": "Domain theory",
+      "edge": "Theory revision problem involves modifying a domain theory to address its deficiencies as revealed by examples."
+   },
+   {
+      "node_1": "Deficient domain theory",
+      "node_2": "Examples",
+      "edge": "Examples expose inaccuracies in the domain theory, leading to the need for revision."
+   },
+   {
+      "node_1": "Propositional domain theories",
+      "node_2": "PTR",
+      "edge": "PTR is an approach to theory revision for propositional domain theories."
+   },
+   {
+      "node_1": "PTR",
+      "node_2": "Probabilities",
+      "edge": "PTR uses probabilities associated with domain theory elements to track the flow of proof through the theory."
+   },
+   {
+      "node_1": "Ptr",
+      "node_2": "Flawed elements",
+      "edge": "PTR efficiently locates and repairs flawed elements of the theory."
+   },
+   {
+      "node_1": "Ptr",
+      "node_2": "Correctly classifies",
+      "edge": "PTR converges to a theory that correctly classifies all examples."
+   }
+][
+   {
+       "node_1": "smaller consistent decision trees",
+       "node_2": "accuracy of individual trees",
+       "edge": "for many of the problems investigated, smaller consistent decision trees are on average less accurate than the average accuracy of slightly larger trees."
+   }, {
+       "node_1": "consistent decision trees",
+       "node_2": "training data",
+       "edge": "all decision trees consistent with the training data are constructed."
+   }, {
+       "node_1": "accuracy of individual trees",
+       "node_2": "test data",
+       "edge": "individual trees on test data."
+   }
+][
+   {
+      "node_1": "description logics",
+      "node_2": "CLASSIC",
+      "edge": "CLASSIC is a description logic-based knowledge representation system that is being used in practical applications."
+   },
+   {
+      "node_1": "individuals",
+      "node_2": "CLASSIC descriptions",
+      "edge": "In order to deal efficiently with individuals in CLASSIC descriptions, the developers have had to use an algorithm that is incomplete with respect to the standard, model-theoretic semantics for description logics."
+   },
+   {
+      "node_1": "description graphs",
+      "node_2": "subsumption algorithm",
+      "edge": "The soundness and completeness of the polynomial-time subsumption algorithm is established using description graphs, which are an abstracted version of the implementation structures used in CLASSIC, and are of independent interest."
+   },
+   {
+      "node_1": "standard, model-theoretic semantics for description logics",
+      "node_2": "algorithm that is incomplete with respect to",
+      "edge": "The developers had to use an algorithm that is incomplete with respect to the standard, model-theoretic semantics for description logics."
+   },
+   {
+      "node_1": "description graphs",
+      "node_2": "standard, model-theoretic semantics for description logics",
+      "edge": "The soundness and completeness of the polynomial-time subsumption algorithm is established using description graphs, which are an abstracted version of the implementation structures used in CLASSIC, and are of independent interest. This variant semantics for descriptions with respect to which the current implementation is complete, and which can be independently motivated."
+   }
+][
+   {
+       "node_1": "GSAT",
+       "node_2": "CNF conversion",
+       "edge": "In this paper, we propose a way to modify GSAT to apply it to non-clausal formulas by using a particular 'score' function that calculates the number of false clauses in the CNF conversion of a formula under a given truth assignment. This value is computed in linear time without constructing the entire CNF conversion."
+   }, {
+       "node_1": "GSAT",
+       "node_2": "Non-clausal formulas",
+       "edge": "Our proposed methodology applies to most of the variants of GSAT suggested till now."
+   }
+][
+   {
+       "node_1": "formula Phi",
+       "node_2": "knowledge base KB",
+       "edge": "implication relationship, as the degree of belief for Phi is computed given KB using the random-worlds method"
+   },
+   {
+       "node_1": "N individuals",
+       "node_2": "all possible worlds with domain {1,...,N}",
+       "edge": "instantiation relationship, as all possible worlds are considered for computing the degree of belief given KB and N"
+   },
+   {
+       "node_1": "constants and unary predicates",
+       "node_2": "vocabulary underlying Phi and KB",
+       "edge": "limitation relationship, as the random-worlds method is restricted to this type of vocabulary"
+   },
+   {
+       "node_1": "entropy",
+       "node_2": "each world",
+       "edge": "association relationship, as entropy can be naturally associated with each world when Phi and KB use constants and unary predicates only"
+   }
+][
+   {
+       "node_1": "information extraction",
+       "node_2": "unconstrained text",
+       "edge": "Information extraction is the task of automatically picking up information of interest from an unconstrained text."
+   },
+   {
+       "node_1": "information",
+       "node_2": "interest",
+       "edge": "Information of interest is usually extracted in two steps."
+   },
+   {
+       "node_1": "pieces of information",
+       "node_2": "scattered throughout the text",
+       "edge": "Pieces of information scattered throughout the text; second, discourse processing merges coreferential information to generate the output."
+   },
+   {
+       "node_1": "key word search",
+       "node_2": "simple pattern search",
+       "edge": "A key word search or simple pattern search can achieve this purpose."
+   },
+   {
+       "node_1": "first step",
+       "node_2": "second step",
+       "edge": "In the first step, pieces of information are locally identified without recognizing any relationships among them."
+   },
+   {
+       "node_1": "human performance",
+       "node_2": "high level of system performance",
+       "edge": "Evaluation results show a high level of system performance which approaches human performance."
+   }
+] 
+
+Additional output:
+
+[
+   {
+       "node_1": "Japanese information extraction system",
+       "node_2": "pattern matcher and discourse processor",
+       "edge": "This paper reports on a Japanese information extraction system that merges information using a pattern matcher and discourse processor."
+   }
+] 
+
+Note: The output does not include all possible relations that could be extracted from the context. It only provides an example of how to format the output based on the given thoughts. Depending on the context, there may be more complex relationships between the terms that can be extracted and represented in the output as edges.
+
+ERROR ### Here is the buggy response:  [
+   {
+       "node_1": "information extraction",
+       "node_2": "unconstrained text",
+       "edge": "Information extraction is the task of automatically picking up information of interest from an unconstrained text."
+   },
+   {
+       "node_1": "information",
+       "node_2": "interest",
+       "edge": "Information of interest is usually extracted in two steps."
+   },
+   {
+       "node_1": "pieces of information",
+       "node_2": "scattered throughout the text",
+       "edge": "Pieces of information scattered throughout the text; second, discourse processing merges coreferential information to generate the output."
+   },
+   {
+       "node_1": "key word search",
+       "node_2": "simple pattern search",
+       "edge": "A key word search or simple pattern search can achieve this purpose."
+   },
+   {
+       "node_1": "first step",
+       "node_2": "second step",
+       "edge": "In the first step, pieces of information are locally identified without recognizing any relationships among them."
+   },
+   {
+       "node_1": "human performance",
+       "node_2": "high level of system performance",
+       "edge": "Evaluation results show a high level of system performance which approaches human performance."
+   }
+] 
+
+Additional output:
+
+[
+   {
+       "node_1": "Japanese information extraction system",
+       "node_2": "pattern matcher and discourse processor",
+       "edge": "This paper reports on a Japanese information extraction system that merges information using a pattern matcher and discourse processor."
+   }
+] 
+
+Note: The output does not include all possible relations that could be extracted from the context. It only provides an example of how to format the output based on the given thoughts. Depending on the context, there may be more complex relationships between the terms that can be extracted and represented in the output as edges. 
+
+
+[
+   {
+       "node_1": "oblique decision tree methods",
+       "node_2": "domains in which the attributes are numeric",
+       "edge": "Oblique decision tree methods are tuned especially for domains in which the attributes are numeric, although they can be adapted to symbolic or mixed symbolic/numeric attributes."
+   },
+   {
+       "node_1": "OC1",
+       "node_2": "oblique split (in the form of a hyperplane)",
+       "edge": "This system, OC1, combines deterministic hill-climbing with two forms of randomization to find a good oblique split (in the form of a hyperplane) at each node of a decision tree."
+   },
+   {
+       "node_1": "OC1",
+       "node_2": "smaller and more accurate than their axis-parallel counterparts",
+       "edge": "We present extensive empirical studies, using both real and artificial data, that analyze OC1's ability to construct oblique trees that are smaller and more accurate than their axis-parallel counterparts."
+   }
+][
+   {
+       "node_1": "Planning while Learning",
+       "node_2": "Goal to achieve",
+       "edge": "In a partially known environment, the agent learns and adapts its plans to achieve the given goal."
+   },
+   {
+       "node_1": "Plan-design process",
+       "node_2": "Tractability",
+       "edge": "Discussion on the tractability of various plan-design processes for Planning while Learning systems, as some classes are computationally expensive."
+   },
+   {
+       "node_1": "Plan-design process",
+       "node_2": "Algorithmic",
+       "edge": "Showing that finding a plan algorithmically is intractable even for simple classes of systems."
+   },
+   {
+       "node_1": "Off-line plan-design process",
+       "node_2": "Role",
+       "edge": "Emphasizing the importance and efficiency of off-line plan-design processes, especially during verification or projection in most natural cases."
+   }
+][
+   {
+       "node_1": "information extraction (IE) processing",
+       "node_2": "higher level IE processing",
+       "edge": "has a subset relationship"
+   },
+   {
+       "node_1": "machine learning",
+       "node_2": "acquires knowledge for some of the higher level IE processing",
+       "edge": "used to acquire knowledge"
+   },
+   {
+       "node_1": "Unrestricted text",
+       "node_2": "vast amounts of",
+       "edge": "associated with"
+   },
+   {
+       "node_1": "IE discourse component",
+       "node_2": "Wrap-Up",
+       "edge": "identifies as"
+   },
+   {
+       "node_1": "IE discourse component",
+       "node_2": "partially trainable discourse module",
+       "edge": "performance equals that of"
+   }
+][
+   {
+       "node_1": "graphical models",
+       "node_2": "Bayesian networks",
+       "edge": "Graphical models include Bayesian networks, which are directed graphs representing a Markov chain."
+   },
+   {
+       "node_1": "graphical models",
+       "node_2": "directed graphs representing a Markov chain",
+       "edge": "Directed graphs representing a Markov chain are a type of graphical model, specifically Bayesian networks."
+   },
+   {
+       "node_1": "graphical models",
+       "node_2": "undirected networks representing a Markov field",
+       "edge": "Graphical models also include undirected networks representing a Markov field."
+   },
+   {
+       "node_1": "plates",
+       "node_2": "graphical models",
+       "edge": "Plates are an extension of graphical models to model data analysis and empirical learning."
+   },
+   {
+       "node_1": "Gibbs sampling",
+       "node_2": "graphical framework",
+       "edge": "Two standard algorithm schemas for learning, Gibbs sampling and the expectation maximization algorithm, are reviewed in a graphical framework."
+   },
+   {
+       "node_1": "expectation maximization algorithm",
+       "node_2": "graphical framework",
+       "edge": "Two standard algorithm schemas for learning, Gibbs sampling and the expectation maximization algorithm, are reviewed in a graphical framework."
+   },
+   {
+       "node_1": "linear regression",
+       "node_2": "graphical specification",
+       "edge": "Using these operations and schemas, some popular algorithms can be synthesized from their graphical specification, including versions of linear regression."
+   },
+   {
+       "node_1": "Gaussian Bayesian networks",
+       "node_2": "learning Gaussian and discrete Bayesian networks from data",
+       "edge": "Using these operations and schemas, some popular algorithms can be synthesized from their graphical specification, including learning Gaussian and discrete Bayesian networks from data."
+   },
+   {
+       "node_1": "feed-forward networks",
+       "node_2": "graphical specification",
+       "edge": "Using these operations and schemas, some popular algorithms can be synthesized from their graphical specification, including techniques for feed-forward networks."
+   }
+][
+   {
+       "node_1": "partial-order planning",
+       "node_2": "total-order planning",
+       "edge": "The paper presents a comparative analysis of partial-order and total-order planning, focusing on two specific planners that can be directly compared. It highlights some subtle assumptions underlying the supposed efficiency of partial-order planning and shows that this superiority can depend critically upon the search strategy and the structure of the search space."
+   }
+][
+   {
+       "node_1": "multiclass learning problems",
+       "node_2": "k classes",
+       "edge": "Multiclass learning problems involve finding a definition for an unknown function f(x) whose range is a discrete set containing k &gt 2 values, which are referred to as k 'classes'."
+   },
+   {
+       "node_1": "multiclass learning problems",
+       "node_2": "direct application of multiclass algorithms",
+       "edge": "Existing approaches to multiclass learning problems include direct application of multiclass algorithms such as the decision-tree algorithms C4.5 and CART."
+   },
+   {
+       "node_1": "binary concept learning algorithms",
+       "node_2": "k classes",
+       "edge": "Another approach to multiclass learning problems is to apply binary concept learning algorithms to learn individual binary functions for each of the k classes."
+   },
+   {
+       "node_1": "error-correcting codes",
+       "node_2": "distributed output representation",
+       "edge": "This paper compares these three approaches to a new technique in which error-correcting codes are employed as a distributed output representation."
+   },
+   {
+       "node_1": "C4.5 and backpropagation",
+       "node_2": "distributed output representation",
+       "edge": "We show that these output representations improve the generalization performance of both C4.5 and backpropagation on a wide range of multiclass learning tasks."
+   },
+   {
+       "node_1": "multiclass learning problems",
+       "node_2": "changes in training sample size",
+       "edge": "This approach is robust with respect to changes in the size of the training sample,"
+   },
+   {
+       "node_1": "distributed output representations",
+       "node_2": "particular classes",
+       "edge": "The assignment of distributed representations to particular classes,"
+   },
+   {
+       "node_1": "overfitting avoidance techniques",
+       "node_2": "robustness",
+       "edge": "and the application of overfitting avoidance techniques such as decision-tree pruning."
+   },
+   {
+       "node_1": "error-correcting output codes",
+       "node_2": "multiclass problems",
+       "edge": "Finally, we show that---like the other methods---the error-correcting code technique can provide a general-purpose method for improving the performance of inductive learning programs on multiclass problems."
+   },
+   {
+       "node_1": "multiclass learning problems",
+       "node_2": "reliable class probability estimates",
+       "edge": "Taken together, these results demonstrate that error-correcting output codes provide a general-purpose method for improving the performance of inductive learning programs on multiclass problems and can also provide reliable class probability estimates."
+   }
+][
+   {
+       "node_1": "plan adaptation",
+       "node_2": "plan refinement operators",
+       "edge": "Plan adaptation involves modifying or repairing an old plan to solve a new problem, and can apply both the same refinement operators available to a generative planner as well as retract constraints and steps from the plan. This is part of a domain-independent algorithm for plan adaptation, which searches a graph of partial plans in a sound, complete, and systematic way."
+   }, {
+       "node_1": "plan adaptation",
+       "node_2": "completeness",
+       "edge": "The completeness of our algorithm ensures that the adaptation algorithm will eventually search the entire plan graph without redundantly searching any parts of it."
+   }, {
+       "node_1": "plan adaptation",
+       "node_2": "systematicity",
+       "edge": "The systematicity of our algorithm ensures that it will do so in a way that is not redundant."
+   }, {
+       "node_1": "transformational planning",
+       "node_2": "case-based planning",
+       "edge": "Both transformational planning and case-based planning involve a process known as plan adaptation, which modifies or repairs an old plan to solve a new problem."
+   }, {
+       "node_1": "plan adaptation",
+       "node_2": "graph of partial plans",
+       "edge": "Plan adaptation involves searching a graph of partial plans, starting at the root and moving from node to node using plan-refinement operators."
+   }
+][
+   {
+       "node_1": "Temporal difference methods",
+       "node_2": "Multi-step prediction problems",
+       "edge": "TD methods are used to learn predictions in multi-step prediction problems."
+   },
+   {
+       "node_1": "TD methods",
+       "node_2": "Reinforcement learning algorithms",
+       "edge": "Well known reinforcement learning algorithms, such as AHC or Q-learning, may be viewed as instances of TD learning."
+   },
+   {
+       "node_1": "Lambda",
+       "node_2": "TD methods",
+       "edge": "Currently the most important application of these methods is to temporal credit assignment in reinforcement learning algorithms optimizing the discounted sum of rewards, parameterized by a recency factor lambda."
+   },
+   {
+       "node_1": "Truncated Temporal Differences (TTD)",
+       "node_2": "TD(lambda)",
+       "edge": "The TTD procedure is proposed as an alternative to the traditional approach, based on eligibility traces, that suffers from both inefficiency and lack of generality."
+   },
+   {
+       "node_1": "TTD",
+       "node_2": "Arbitrary lambda",
+       "edge": "The TTD procedure can be used with arbitrary function representation methods and requires very little computation per action."
+   },
+   {
+       "node_1": "Lambda &gt 0",
+       "node_2": "TTD",
+       "edge": "Using lambda > 0 with the TTD procedure allows one to obtain a significant learning speedup at essentially the same cost as usual TD(0) learning."
+   },
+   {
+       "node_1": "Reinforcement learning algorithms",
+       "node_2": "Discounted sum of rewards",
+       "edge": "TD methods are used to learn predictions in reinforcement learning algorithms optimizing the discounted sum of rewards."
+   }
+][
+   {
+       "node_1": "ICET",
+       "node_2": "cost-sensitive classification",
+       "edge": "ICET is a new algorithm for cost-sensitive classification introduced in this paper. Cost-sensitive classification considers both the costs of tests and classification errors while classifying."
+   },
+   {
+       "node_1": "ICET",
+       "node_2": "genetic algorithm",
+       "edge": "ICET uses a genetic algorithm to evolve a population of biases for decision tree induction in cost-sensitive classification."
+   },
+   {
+       "node_1": "ICET",
+       "node_2": "decision tree",
+       "edge": "In ICET, the fitness function of the genetic algorithm is the average cost of classification using the decision tree, including both test and classification error costs."
+   },
+   {
+       "node_1": "ICET",
+       "node_2": "five real-world medical datasets",
+       "edge": "ICET is empirically evaluated on five real-world medical datasets in comparison to other cost-sensitive classification algorithms."
+   },
+   {
+       "node_1": "EG2",
+       "node_2": "ICET",
+       "edge": "In a set of experiments, ICET is compared with three other algorithms for cost-sensitive classification - EG2, CS-ID3, and IDX, as well as C4.5 which classifies without regard to cost."
+   }
+][
+   {
+      "node_1": "theory revision",
+      "node_2": "inductive learning",
+      "edge": "integrates by combining training examples with a coarse domain theory to produce a more accurate theory."
+   },
+   {
+      "node_1": "initial theory",
+      "node_2": "improved theory",
+      "edge": "representation language appropriate for the initial theory may be inappropriate for an improved theory."
+   },
+   {
+      "node_1": "original representation",
+      "node_2": "more accurate theory",
+      "edge": "forced to use that same representation may be bulky, cumbersome, and difficult to reach."
+   },
+   {
+      "node_1": "initial theory",
+      "node_2": "fine-tuned theory",
+      "edge": "a more accurate theory forced to use that same representation may be bulky, cumbersome, and difficult to reach."
+   },
+   {
+      "node_1": "coarse domain theory",
+      "node_2": "fine-tuned theory",
+      "edge": "a theory structure suitable for a coarse domain theory may be insufficient for a fine-tuned theory."
+   },
+   {
+      "node_1": "small, local changes to a theory",
+      "node_2": "complex structural alterations that may be required",
+      "edge": "have limited value for accomplishing."
+   },
+   {
+      "node_1": "theory-guided constructive induction",
+      "node_2": "previous theory-guided systems",
+      "edge": "experiments in three domains show improvement over."
+   }
+][
+   {
+       "node_1": "functional CSPs",
+       "node_2": "local consistency",
+       "edge": "The paper proposes a new decomposition method for functional CSPs that benefits from both semantic properties of functional constraints and structural properties of the network, as well as introduces a new local consistency called pivot consistency. Pivot consistency is a weak form of path consistency and can be achieved in O(n^2d^2) complexity, which is faster than the O(n^3d^3) complexity for path consistency."
+   },
+   {
+       "node_1": "functional CSPs",
+       "node_2": "root set",
+       "edge": "The paper introduces a particular subset of variables called a root set that is characterized in the context of solving functional CSPs by combining semantic properties of functional constraints and structural properties of the network."
+   },
+   {
+       "node_1": "consistent instantiation",
+       "node_2": "root set",
+       "edge": "The paper shows that any consistent instantiation of the root set can be linearly extended to a solution, leading to the presentation of the new method for solving functional CSPs by decomposing."
+   },
+   {
+       "node_1": "semantic properties",
+       "node_2": "functional constraints",
+       "edge": "The paper proposes a decomposition method that takes into account semantic properties of functional constraints (not bijective constraints) in solving functional CSPs."
+   },
+   {
+       "node_1": "functional CSPs",
+       "node_2": "existing solutions",
+       "edge": "The paper shows under some conditions that the existence of solutions can be guaranteed for functional CSPs by combining semantic properties of functional constraints and structural properties of the network."
+   }
+][
+   {
+       "node_1": "multi-agent reinforcement learning",
+       "node_2": "load balancing",
+       "edge": "We study the process of multi-agent reinforcement learning in the context of load balancing in a distributed system..."
+   },
+   {
+       "node_1": "distributed system",
+       "node_2": "central coordination",
+       "edge": "without use of either central coordination or explicit communication..."
+   },
+   {
+       "node_1": "adaptive load balancing",
+       "node_2": "stochastic nature",
+       "edge": "important features of which are its stochastic nature and the purely local information available to individual agents."
+   },
+   {
+       "node_1": "individual agents",
+       "node_2": "purely local information",
+       "edge": "available to individual agents."
+   },
+   {
+       "node_1": "basic adaptive behavior parameters",
+       "node_2": "system efficiency",
+       "edge": "We first define a precise framework in which to study adaptive load balancing, important features of which are its stochastic nature and the purely local information available to individual agents. Given this framework, we show illuminating results on the interplay between basic adaptive behavior parameters and their effect on system efficiency."
+   },
+   {
+       "node_1": "heterogeneous populations",
+       "node_2": "adaptive load balancing",
+       "edge": "We then investigate the properties of adaptive load balancing in heterogeneous populations,"
+   },
+   {
+       "node_1": "exploration vs. exploitation",
+       "node_2": "heterogeneous populations",
+       "edge": "and address the issue of exploration vs. exploitation in that context."
+   },
+   {
+       "node_1": "communication",
+       "node_2": "naive use of communication",
+       "edge": "Finally, we show that naive use of communication may not improve, and might even harm system efficiency."
+   }
+][
+   {
+       "node_1": "artificial intelligence",
+       "node_2": "perfect rationality",
+       "edge": "Theoretical foundation of artificial intelligence centered around perfect rationality"
+   },
+   {
+       "node_1": "intelligent systems",
+       "node_2": "desired property",
+       "edge": "Intelligent systems with a desired property as per the theoretical foundation"
+   },
+   {
+       "node_1": "bounded optimality",
+       "node_2": "property proposed instead of perfect rationality",
+       "edge": "Bounded optimality proposed instead of perfect rationality as an alternative theoretical foundation for AI"
+   },
+   {
+       "node_1": "agent",
+       "node_2": "program",
+       "edge": "Agent's program is a solution to the constrained optimization problem presented by its architecture and task environment"
+   },
+   {
+       "node_1": "machine architectures",
+       "node_2": "construct agents with bounded optimality",
+       "edge": "Constructing agents with bounded optimality for a simple class of machine architectures in real-time environments"
+   },
+   {
+       "node_1": "real-time constraints",
+       "node_2": "universal ABO programs",
+       "edge": "Universal ABO programs constructed no matter what real-time constraints are applied"
+   },
+   {
+       "node_1": "task environment",
+       "node_2": "constrained optimization problem",
+       "edge": "Task environment presented by an agent's architecture and the constrained optimization problem it solves"
+   },
+   {
+       "node_1": "classical complexity theory",
+       "node_2": "asymptotic bounded optimality (ABO)",
+       "edge": "Generalizing the notion of optimality in classical complexity theory through asymptotic bounded optimality"
+   }
+] 
+[
+   {
+      "node_1": "recursive constant-depth determinate clause",
+      "node_2": "single k-ary recursive constant-depth determinate clause",
+      "edge": "is a special case of"
+   },
+   {
+      "node_1": "two-clause programs consisting of one learnable recursive clause and one constant-depth determinate non-recursive clause",
+      "node_2": "single k-ary recursive constant-depth determinate clause",
+      "edge": "is a more complex version of"
+   },
+   {
+      "node_1": "pac-learnability",
+      "node_2": "two-clause programs consisting of one learnable recursive clause and one constant-depth determinant non-recursive clause",
+      "edge": "is a learning algorithm for"
+   },
+   {
+      "node_1": "maximal generality",
+      "node_2": "two-clause programs consisting of one learnable recursive clause and one constant-depth determinant non-recursive clause",
+      "edge": "is a property that makes the learning problem computationally difficult for"
+   }
+][
+   {
+       "node_1": "programs with an unbounded number of constant-depth linear recursive clauses",
+       "node_2": "cryptographically hard to learn in Valiant's model of pac-learnability",
+       "edge": "The class of programs with an unbounded number of constant-depth linear recursive clauses is cryptographically hard to learn in Valiant's model of pac-learnability."
+   },
+   {
+       "node_1": "programs with one constant-depth determinate clause containing an unbounded number of recursive calls",
+       "node_2": "cryptographically hard to learn in Valiant's model of pac-learnability",
+       "edge": "The class of programs with one constant-depth determinate clause containing an unbounded number of recursive calls is cryptographically hard to learn in Valiant's model of pac-learnability."
+   },
+   {
+       "node_1": "programs with one linear recursive clause of constant locality",
+       "node_2": "cryptographically hard to learn in Valiant's model of pac-learnability",
+       "edge": "The class of programs with one linear recursive clause of constant locality is cryptographically hard to learn in Valiant's model of pac-learnability."
+   },
+   {
+       "node_1": "learning a constant-depth determinate program with either two linear recursive clauses or one linear recursive clause and one non-recursive clause",
+       "node_2": "as hard as learning boolean DNF",
+       "edge": "Learning a constant-depth determinate program with either two linear recursive clauses or one linear recursive clause and one non-recursive clause is as hard as learning boolean DNF."
+   }
+][
+   {
+       "node_1": "least-commitment planners",
+       "node_2": "difficult goal interactions",
+       "edge": "There has been evidence that least-commitment planners can efficiently handle planning problems involving difficult goal interactions."
+   },
+   {
+       "node_1": "delayed-commitment",
+       "node_2": "planning strategy",
+       "edge": "The common belief is that delayed-commitment is the 'best' possible planning strategy due to evidence in handling planning problems with difficult goal interactions."
+   },
+   {
+       "node_1": "eager-commitment planners",
+       "node_2": "planning problems",
+       "edge": "We recently found evidence that eager-commitment planners can handle a variety of planning problems more efficiently, particularly those with difficult operator choices."
+   },
+   {
+       "node_1": "FLECS",
+       "node_2": "planning algorithm",
+       "edge": "Introducing this new planning algorithm, FLECS, which uses a FLExible Commitment Strategy with respect to plan-step orderings."
+   },
+   {
+       "node_1": "delayed-commitment",
+       "node_2": "eager-commitment",
+       "edge": "FLECS can use any strategy from delayed-commitment to eager-commitment."
+   },
+   {
+       "node_1": "planning domains and problems",
+       "node_2": "efficient planning strategies",
+       "edge": "FLECS represents a novel contribution to planning in that it explicitly provides the choice of which commitment strategy to use while planning. FLECS provides a framework to investigate the mapping from planning domains and problems to efficient planning strategies."
+   }
+][
+   {
+       "node_1": "first-order decision lists",
+       "node_2": "learning a new class of concepts",
+       "edge": "The paper presents a method for inducing logic programs from examples that learns a new class of concepts called first-order decision lists, which are defined as ordered lists of clauses each ending in a cut and can be used for learning a variety of concepts. This method, called FOIDL, is based on FOIL but employs intensional background knowledge and avoids the need for explicit negative examples."
+   },
+   {
+       "node_1": "FOIDL",
+       "node_2": "learning a new class of concepts",
+       "edge": "The paper presents a method for inducing logic programs from examples called FOIDL, which learns a new class of concepts called first-order decision lists. This method is particularly useful for problems that involve rules with specific exceptions and can be applied to learning a variety of concepts."
+   },
+   {
+       "node_1": "first-order decision lists",
+       "node_2": "intensional background knowledge",
+       "edge": "FOIDL, the method presented in the paper for inducing logic programs from examples, employs intensional background knowledge to learn a new class of concepts called first-order decision lists."
+   },
+   {
+       "node_1": "FOIDL",
+       "node_2": "explicit negative examples",
+       "edge": "The method presented in the paper for inducing logic programs from examples, FOIDL, avoids the need for explicit negative examples in learning a new class of concepts called first-order decision lists."
+   },
+   {
+       "node_1": "FOIDL",
+       "node_2": "symbolic/connectionist debate",
+       "edge": "The paper describes how FOIDL, the method presented for inducing logic programs from examples, is particularly useful for problems that involve rules with specific exceptions, such as learning the past-tense of English verbs, a task widely studied in the context of the symbolic/connectionist debate."
+   },
+   {
+       "node_1": "FOIDL",
+       "node_2": "significantly fewer examples",
+       "edge": "The paper reports that FOIDL is able to learn concise, accurate programs for learning the past-tense of English verbs from significantly fewer examples than previous methods (both connectionist and symbolic)."
+   }
+] 
+[
+   {
+       "node_1": "ion",
+       "node_2": "abstraction by dropping sentences",
+       "edge": "In several domains, abstraction by dropping sentences has proven useful in problem solving approaches. However, this approach has significant drawbacks as illustrated in this paper. To overcome these drawbacks, a more general view of abstraction involving the change of representation language is proposed."
+   }, {
+       "node_1": "concrete",
+       "node_2": "abstract",
+       "edge": "In the proposed new abstraction methodology and learning algorithm, planning cases can be completely changed from concrete to abstract using a new approach that allows for a powerful change in representation language. However, an admissible way of abstracting states and the abstract language itself must be provided in the domain model."
+   }, {
+       "node_1": "Paris",
+       "node_2": "classical hierarchical planning",
+       "edge": "An empirical study in the domain of process planning in mechanical engineering shows significant advantages of reasoning from abstract cases using Paris over classical hierarchical planning."
+   }
+][
+   {
+       "node_1": "identifying inaccurate data",
+       "node_2": "qualitative correlations among related data",
+       "edge": "First, we introduce the definitions of related data and qualitative correlations among related data. Then we put forward a new concept called support coefficient function (SCF). SCF can be used to extract, represent, and calculate qualitative correlations among related data within a dataset."
+   },
+   {
+       "node_1": "identifying inaccurate data",
+       "node_2": "dynamic shift intervals of inaccurate data",
+       "edge": "Both of the approaches are based on SCF. Finally we present an algorithm for identifying inaccurate data by using qualitative correlations among related data as confirmatory or disconfirmatory evidence."
+   },
+   {
+       "node_1": "qualitative correlations among related data",
+       "node_2": "conventional methods used in many similar systems",
+       "edge": "The experimental results show that the method is significantly better than the conventional methods used in many similar systems."
+   },
+   {
+       "node_1": "identifying inaccurate data",
+       "node_2": "real spectra",
+       "edge": "We have developed a practical system for interpreting infrared spectra by applying the method, and have fully tested the system against several hundred real spectra."
+   }
+][
+   {
+       "node_1": "intelligence",
+       "node_2": "learning",
+       "edge": "Learning is an aspect of intelligence."
+   },
+   {
+       "node_1": "intelligence",
+       "node_2": "reasoning",
+       "edge": "Reasoning is an aspect of intelligence."
+   },
+   {
+       "node_1": "machine learning",
+       "node_2": "learning",
+       "edge": "Machine learning falls under the topic of learning."
+   },
+   {
+       "node_1": "classical AI",
+       "node_2": "reasoning",
+       "edge": "Classical (or symbolic) AI studies reasoning."
+   },
+   {
+       "node_1": "FLARE",
+       "node_2": "learning",
+       "edge": "FLARE combines inductive learning with prior knowledge."
+   },
+   {
+       "node_1": "FLARE",
+       "node_2": "reasoning",
+       "edge": "FLARE combines reasoning and propositional setting."
+   }
+][
+   {
+       "node_1": "ergodicity",
+       "node_2": "Markovian models",
+       "edge": "Markovian models with ergodic transition probability matrices are less likely to have diffusion of context and credit due to their ability to visit all possible states in the long run."
+   }, {
+       "node_1": "transition probability matrices",
+       "node_2": "sparse or deterministic transition probability matrices",
+       "edge": "Sparse or deterministic transition probability matrices reduce the phenomenon of diffusion of context and credit, making it easier to learn long-term context for sequential data."
+   }, {
+       "node_1": "learning approaches based on continuous optimization",
+       "node_2": "gradient descent and the Baum-Welch algorithm",
+       "edge": "The results found in this paper apply to learning approaches based on continuous optimization, such as gradient descent and the Baum-Welch algorithm."
+   }
+][
+   {
+       "node_1": "Symmetric networks",
+       "node_2": "Energy minimization",
+       "edge": "Such networks are frequently investigated for use in optimization, constraint satisfaction and approximation of NP-hard problems." },
+   {
+       "node_1": "Boltzman machines",
+       "node_2": "Hopfield nets",
+       "edge": "Are examples of symmetric networks designed for energy minimization." },
+   {
+       "node_1": "Global solution",
+       "node_2": "Exponential number of steps",
+       "edge": "Finding a global solution in such networks may take an exponential number of steps and even a local solution is not guaranteed." },
+   {
+       "node_1": "Tree-like subnetworks",
+       "node_2": "Linear time",
+       "edge": "Our proposed algorithm guarantees that a global minimum is found in linear time for tree-like subnetworks." },
+   {
+       "node_1": "Activate",
+       "node_2": "Improvement to standard local activation function",
+       "edge": "We propose an improvement to the standard local activation function used for such networks." },
+   {
+       "node_1": "Uniform algorithm",
+       "node_2": "Does not assume network is tree-like",
+       "edge": "The improved algorithm, called activate, is uniform and does not assume that the network is tree-like." },
+   {
+       "node_1": "Identify tree-like subnetworks",
+       "node_2": "Even in cyclic topologies",
+       "edge": "The algorithm can identify tree-like subnetworks even in cyclic topologies (arbitrary networks)." },
+   {
+       "node_1": "Converge to a global minimum",
+       "node_2": "From any initial state of the system",
+       "edge": "For acyclic networks, the algorithm is guaranteed to converge to a global minimum from any initial state of the system (self-stabilization)." },
+   {
+       "node_1": "Uniform algorithm",
+       "node_2": "Does not exist for cycles",
+       "edge": "In the presence of cycles, no uniform algorithm exists that guarantees optimality even under a sequential asynchronous scheduler." },
+   {
+       "node_1": "Asynchronous scheduler",
+       "node_2": "Activate only one unit at a time",
+       "edge": "An asynchronous scheduler can activate only one unit at a time while a synchronous scheduler can activate any number of units in a single time step." },
+   {
+       "node_1": "Uniform algorithm",
+       "node_2": "Does not exist for acyclic networks",
+       "edge": "No uniform algorithm exists to optimize even acyclic networks when the scheduler is synchronous." },
+   {
+       "node_1": "Cycle-cutset scheme",
+       "node_2": "Improves over activate",
+       "edge": "Finally, we show how the algorithm can be improved using the cycle-cutset scheme. The general algorithm, called activate-with-cutset, improves over activate and has some performance guarantees that are related to the size of the network's cycle-cutset." }
+][
+   {
+       "node_1": "category measure",
+       "node_2": "membership function",
+       "edge": "learning component for automatically learning membership functions given a set of example objects labeled with their desired category measure in the functionality-based recognition system Gruff, called Omlet"
+   }, {
+       "node_1": "low-level membership values",
+       "node_2": "Gruff recognition system",
+       "edge": "combined through an and-or tree structure to give a final overall membership value"
+   }
+][
+   {
+       "node_1": "interactive tutorial instruction",
+       "node_2": "flexible paradigm for teaching tasks",
+       "edge": "allows an instructor to communicate whatever types of knowledge an agent might need in whatever situations might arise."
+   },
+   {
+       "node_1": "learning from situated, interactive tutorial instruction",
+       "node_2": "agent",
+       "edge": "within an ongoing"
+   },
+   {
+       "node_1": "situated explanation",
+       "node_2": "approach to learning from situated, interactive tutorial instruction",
+       "edge": "achieves such learning through a combination of analytic and inductive techniques."
+   },
+   {
+       "node_1": "Situated explanation-based learning",
+       "node_2": "form of explanation-based learning",
+       "edge": "that is situated for each instruction"
+   },
+   {
+       "node_1": "contextually guided responses to incomplete explanations",
+       "node_2": "situated explanation",
+       "edge": ""
+   },
+   {
+       "node_1": "Instructo-Soar",
+       "node_2": "learning hierarchies of new tasks and other domain knowledge from interactive natural language instructions",
+       "edge": ""
+   },
+   {
+       "node_1": "known or unknown commands",
+       "node_2": "Instructo-Soar",
+       "edge": "can take at any instruction point"
+   },
+   {
+       "node_1": "instructions that apply to either its current situation or to a hypothetical situation specified in language (as in, for instance, conditional instructions)",
+       "node_2": "Instructo-Soar",
+       "edge": ""
+   },
+   {
+       "node_1": "learning each class of knowledge it uses to perform tasks",
+       "node_2": "Interactive tutorial instruction",
+       "edge": ""
+   }
+][
+   {
+       "node_1": "OPUS",
+       "node_2": "admissible search",
+       "edge": "OPUS is a branch and bound search algorithm that enables efficient admissible search through spaces for which the order of search operator application is not significant. This feature makes OPUS an efficient search algorithm, particularly for very large machine learning search spaces."
+   }, {
+       "node_1": "OPUS",
+       "node_2": "exact learning biases",
+       "edge": "The use of admissible search in OPUS means that the exact learning biases to be employed for complex learning tasks can be precisely specified and manipulated."
+   }, {
+       "node_1": "OPUS",
+       "node_2": "complex learning tasks",
+       "edge": "The potential value of admissible search in OPUS lies in its ability to precisely specify and manipulate the exact learning biases required for complex learning tasks."
+   }, {
+       "node_1": "OPUS",
+       "node_2": "machine learning community",
+       "edge": "The efficiency of OPUS with respect to very large machine learning search spaces has potential value for the machine learning community as it allows for precisely specified and manipulated exact learning biases for complex learning tasks."
+   }, {
+       "node_1": "OPUS",
+       "node_2": "truth maintenance",
+       "edge": "The potential application of OPUS in other areas of artificial intelligence, notably truth maintenance, is a result of its efficient admissible search through spaces for which the order of search operator application is not significant."
+   }
+][
+   {
+       "node_1": "vision-based road detection system",
+       "node_2": "real-time constraints imposed by moving vehicle applications",
+       "edge": "The main aim of this work is the development of a vision-based road detection system that can cope with the difficult real-time constraints imposed by moving vehicle applications."
+   }, {
+       "node_1": "vision-based road detection system",
+       "node_2": "difficult real-time constraints imposed by moving vehicle applications",
+       "edge": "The main aim of this work is the development of a vision-based road detection system that can cope with the difficult real-time constraints imposed by moving vehicle applications."
+   }, {
+       "node_1": "special-purpose massively parallel system",
+       "node_2": "minimize system production and operational costs",
+       "edge": "The hardware platform, a special-purpose massively parallel system, has been chosen to minimize system production and operational costs."
+   }, {
+       "node_1": "expectation-driven low-level image segmentation",
+       "node_2": "massively parallel SIMD architectures capable of handling hierarchical data structures",
+       "edge": "This paper presents a novel approach to expectation-driven low-level image segmentation, which can be mapped naturally onto mesh-connected massively parallel SIMD architectures capable of handling hierarchical data structures."
+   }, {
+       "node_1": "input image",
+       "node_2": "multiresolution stretching process",
+       "edge": "The input image is assumed to contain a distorted version of a given template; a multiresolution stretching process is used to reshape the original template in accordance with the acquired image content, minimizing a potential function."
+   }, {
+       "node_1": "original template",
+       "node_2": "distorted template",
+       "edge": "The distorted template is the process output."
+   }
+][
+   {
+      "node_1": "inductive learning",
+      "node_2": "generalization",
+      "edge": "In the area of inductive learning, generalization is a main operation"
+   },
+   {
+      "node_1": "inductive learning",
+      "node_2": "logical implication",
+      "edge": "the usual definition of induction is based on logical implication"
+   },
+   {
+      "node_1": "machine learning",
+      "node_2": "clausal representation of knowledge",
+      "edge": "There has been a rising interest in clausal representation of knowledge in machine learning"
+   },
+   {
+      "node_1": "recursive clauses",
+      "node_2": "learning recursive clauses",
+      "edge": "is a crucial problem since recursion is the basic program structure of logic programs"
+   },
+   {
+      "node_1": "theta-subsumption",
+      "node_2": "inductive learning systems",
+      "edge": "Almost all inductive learning systems that perform generalization of clauses use the relation theta-subsumption instead of implication"
+   },
+   {
+      "node_1": "implication",
+      "node_2": "inductive learning systems",
+      "edge": "However generalization under theta-subsumption is inappropriate for learning recursive clauses"
+   },
+   {
+      "node_1": "T-implication",
+      "node_2": "inductive learning",
+      "edge": "We introduce a stronger form of implication, called T-implication, which is decidable between clauses"
+   },
+   {
+      "node_1": "clauses",
+      "node_2": "T-implication",
+      "edge": "For every finite set of clauses there exists a least general generalization under T-implication"
+   },
+   {
+      "node_1": "expansions",
+      "node_2": "induction",
+      "edge": "We describe a technique to reduce generalizations under implication of a clause to generalizations under theta-subsumption of what we call an expansion"
+   },
+   {
+      "node_1": "non-tautological clauses",
+      "node_2": "T-complete expansions",
+      "edge": "For every non-tautological clause there exists a T-complete expansion, which means that every generalization under T-implication of the clause is reduced to a generalization under theta-subsumption of the expansion"
+}
+] 
+[
+  {
+    "node_1": "causal assertions",
+    "node_2": "decision-theoretic primitives",
+    "edge": "Our definition of cause and effect departs from the traditional view in that causal assertions may vary with the set of decisions available, providing added clarity to the notion of cause."
+  },
+  {
+    "node_1": "causal relationships",
+    "node_2": "directed acyclic graphs",
+    "edge": "We examine the encoding of causal relationships in directed acyclic graphs."
+  },
+  {
+    "node_1": "canonical form",
+    "node_2": "influence diagrams",
+    "edge": "We describe a special class of influence diagrams, those in canonical form, and show its relationship to Pearl's representation of cause and effect."
+  },
+  {
+    "node_1": "counterfactual reasoning",
+    "node_2": "canonical form",
+    "edge": "Finally, we show how canonical form facilitates counterfactual reasoning."
+  }
+][
+   {
+       "node_1": "Characteristic models",
+       "node_2": "Horn expressions",
+       "edge": "Alternative, model based, representation for Horn expressions. The two representations are incomparable and each has its advantages over the other, leading to translation questions between them. These questions also arise in database theory with applications to the design of relational databases."
+   }, {
+       "node_1": "Characteristic models",
+       "node_2": "Decision problem",
+       "edge": "The translation problems are equivalent to deciding whether a given set of models is the set of characteristic models for a given Horn expression."
+   }, {
+       "node_1": "Horn expressions",
+       "node_2": "Characteristic models",
+       "edge": "Translation questions arise between these representations, and translating is equivalent to deciding whether a given set of models is the set of characteristic models for a given Horn expression."
+   }, {
+       "node_1": "Horn expressions",
+       "node_2": "Hypergraph transversal problem",
+       "edge": "In general, our translation problems are at least as hard as the hypergraph transversal problem, which is related to other applications in AI and for which no polynomial time algorithm is known."
+   }, {
+       "node_1": "Hypergraph transversal problem",
+       "node_2": "Horn expressions",
+       "edge": "The translation problems are equivalent to the hypergraph transversal problem in a special case."
+   }
+][
+   {
+       "node_1": "logistic regression",
+       "node_2": "game-tree search",
+       "edge": "Logistic regression is applied in the context of game playing for estimating feature weights in three well-known statistical methods. This application is described in this article, where it leads to better results than other approaches like Fisher's linear discriminant and quadratic discriminant function for normally distributed features."
+   }, {
+       "node_1": "logistic regression",
+       "node_2": "well-known statistical methods",
+       "edge": "Logistic regression is used in this article to estimate feature weights using a large number of classified Othello positions, which falls under the category of three well-known statistical methods commonly employed in game-tree search."
+   }, {
+       "node_1": "Fisher's linear discriminant",
+       "node_2": "game-tree search",
+       "edge": "Fisher's linear discriminant is also used in this article for estimating feature weights as part of three well-known statistical methods applied to a large number of classified Othello positions in the context of game playing."
+   }, {
+       "node_1": "quadratic discriminant function",
+       "node_2": "game-tree search",
+       "edge": "The quadratic discriminant function for normally distributed features is utilized as part of three well-known statistical methods to estimate feature weights using a large number of classified Othello positions in the context of game playing, as discussed in this article."
+   }, {
+       "node_1": "Othello",
+       "node_2": "game-tree search",
+       "edge": "Othello is used in conjunction with game-tree search and statistical methods like logistic regression, Fisher's linear discriminant, and the quadratic discriminant function for normally distributed features to estimate feature weights using a large number of classified positions."
+   }, {
+       "node_1": "world-class Othello program",
+       "node_2": "playing strengths",
+       "edge": "The playing strengths of resulting versions of a world-class Othello program are compared by means of tournaments as described in this article."
+   }
+][
+   {
+       "node_1": "machine learning method",
+       "node_2": "predicting the value of a real-valued function",
+       "edge": "A machine learning method is used to predict the value of a real-valued function."
+   },
+   {
+       "node_1": "machine learning method",
+       "node_2": "multiple input variables",
+       "edge": "A machine learning method is applied to multiple input variables to predict the value of a real-valued function."
+   },
+   {
+       "node_1": "ordered disjunctive normal form (DNF)",
+       "node_2": "induced solutions",
+       "edge": "Induced solutions are presented in the form of ordered disjunctive normal form (DNF)."
+   },
+   {
+       "node_1": "compact, easily interpretable solutions",
+       "node_2": "induction method",
+       "edge": "The new induction method aims to induce compact and easily interpretable solutions."
+   },
+   {
+       "node_1": "ordered disjunctive normal form (DNF)",
+       "node_2": "rule-based decision model",
+       "edge": "The induced solutions in the form of ordered disjunctive normal form (DNF) contribute to the rule-based decision model."
+   },
+   {
+       "node_1": "similar cases",
+       "node_2": "search for similar cases",
+       "edge": "The new technique can be extended to search efficiently for similar cases prior to approximating function values."
+   }
+][
+   {
+       "node_1": "temporal reasoning system",
+       "node_2": "Allen's interval-based framework for representing temporal information",
+       "edge": "based on"
+   },
+   {
+       "node_1": "applications",
+       "node_2": "temporal reasoning component",
+       "edge": "rely heavily on"
+   },
+   {
+       "node_1": "problems in molecular biology",
+       "node_2": "temporal reasoning component",
+       "edge": "rely heavily on"
+   },
+   {
+       "node_1": "path consistency algorithm",
+       "node_2": "algorithms for determining whether the temporal information is consistent",
+       "edge": "part of"
+   },
+   {
+       "node_1": "backtracking algorithm",
+       "node_2": "algorithms for determining whether the temporal information is consistent",
+       "edge": "part of"
+   },
+   {
+       "node_1": "path consistency algorithm",
+       "node_2": "highly optimized implementation",
+       "edge": "develop techniques that can result in up to a ten-fold speedup over"
+   },
+   {
+       "node_1": "backtracking algorithm",
+       "node_2": "empirical analysis",
+       "edge": "develop variable and value ordering heuristics that are shown empirically to dramatically improve the performance of the algorithm"
+   },
+   {
+       "node_1": "backtracking search problem",
+       "node_2": "previously suggested reformulation",
+       "edge": "can reduce the time and space requirements of the backtracking search"
+   }
+][
+   {
+       "node_1": "well-founded semantics",
+       "node_2": "preferences between rules",
+       "edge": "In this extension of well-founded semantics for logic programs with two types of negation, information about preferences between rules can be expressed in the logical language and derived dynamically using a reserved predicate symbol and a naming technique. Conflicts among rules are resolved whenever possible on the basis of derived preference information."
+   }, {
+       "node_1": "logic programs",
+       "node_2": "two types of negation",
+       "edge": "This extension is for logic programs with two types of negation."
+   }, {
+       "node_1": "well-founded conclusions",
+       "node_2": "prioritized logic programs",
+       "edge": "The well-founded conclusions of prioritized logic programs can be computed in polynomial time."
+   }, {
+       "node_1": "legal reasoning example",
+       "node_2": "usefulness of the approach",
+       "edge": "A legal reasoning example illustrates the usefulness of the approach."
+   }
+][
+   {
+       "node_1": "Traditional databases",
+       "node_2": "Dynamic reasoning in probabilistic databases",
+       "edge": "Our goal is to take a first step toward dynamic reasoning in probabilistic databases with comparable efficiency as traditional databases commonly support efficient query and update procedures that operate in time which is sublinear in the size of the database."
+   },
+   {
+       "node_1": "Singly connected Bayesian networks",
+       "node_2": "Dynamic data structure",
+       "edge": "We propose a dynamic data structure that supports efficient algorithms for updating and querying singly connected Bayesian networks."
+   },
+   {
+       "node_1": "O(1) time",
+       "node_2": "New evidence absorption",
+       "edge": "In the conventional algorithm, new evidence is absorbed in O(1) time."
+   },
+   {
+       "node_1": "O(N)",
+       "node_2": "Queries",
+       "edge": "Queries are processed in time O(N), where N is the size of the network."
+   },
+   {
+       "node_1": "Log N time",
+       "node_2": "Queries",
+       "edge": "We propose an algorithm which, after a preprocessing phase, allows us to answer queries in time O(log N) at the expense of O(log N) time per evidence absorption."
+   },
+   {
+       "node_1": "Real-time response",
+       "node_2": "Large probabilistic databases",
+       "edge": "The usefulness of sub-linear processing time manifests itself in applications requiring (near) real-time response over large probabilistic databases."
+   },
+   {
+       "node_1": "Computational biology",
+       "node_2": "Dynamic probabilistic reasoning",
+       "edge": "We briefly discuss a potential application of dynamic probabilistic reasoning in computational biology."
+   }
+][
+   {
+      "node_1": "combinatorial search",
+      "node_2": "quantum computers",
+      "edge": "introduce an algorithm for combinatorial search on quantum computers that is capable of significantly concentrating amplitude into solutions for some NP search problems, on average."
+   },
+   {
+      "node_1": "quantum parallelism",
+      "node_2": "unproductive search choices",
+      "edge": "exploiting the same aspects of problem structure as used by classical backtrack methods to avoid"
+   },
+   {
+      "node_1": "difficult problem instances",
+      "node_2": "underconstrained/overconstrained problems",
+      "edge": "displaying the same phase transition behavior, and at the same location, as seen in many previously studied classical search methods."
+   },
+   {
+      "node_1": "quantum algorithm",
+      "node_2": "classical backtrack methods",
+      "edge": "exploiting the same aspects of problem structure as used by classical backtrack methods to avoid unproductive search choices."
+   }
+][
+   {
+       "node_1": "mean field theory",
+       "node_2": "sigmoid belief networks",
+       "edge": "Our mean field theory is developed specifically for sigmoid belief networks, providing a tractable approximation to the true probability distribution in these networks."
+   },
+   {
+       "node_1": "mean field theory",
+       "node_2": "tractable approximation",
+       "edge": "Our mean field theory provides a tractable approximation to the true probability distribution in sigmoid belief networks, allowing for more efficient and scalable computation."
+   },
+   {
+       "node_1": "mean field theory",
+       "node_2": "likelihood of evidence",
+       "edge": "In addition to providing a tractable approximation, our mean field theory also yields a lower bound on the likelihood of evidence in sigmoid belief networks."
+   },
+   {
+       "node_1": "sigmoid belief networks",
+       "node_2": "classification of handwritten digits",
+       "edge": "We demonstrate the utility of our mean field theory framework for the classification of handwritten digits, a benchmark problem in statistical pattern recognition."
+   }
+][
+   {
+       "node_1": "C4.5",
+       "node_2": "Modifications to address weakness in continuous attribute domains",
+       "edge": "A reported weakness of C4.5 in domains with continuous attributes is addressed by modifying the formation and evaluation of tests on continuous attributes."
+   }, {
+       "node_1": "Smaller decision trees",
+       "node_2": "Empirical trials show that the modifications lead to smaller decision trees",
+       "edge": ""
+   }, {
+       "node_1": "Higher predictive accuracies",
+       "node_2": "Empirical trials show that the modifications lead to smaller decision trees with higher predictive accuracies.",
+       "edge": ""
+   }, {
+       "node_1": "New version of C4.5",
+       "node_2": "Results also confirm that a new version of C4.5 incorporating these changes is superior to recent approaches that use global discretization and that construct small trees with multi-interval splits.",
+       "edge": ""
+   }, {
+       "node_1": "Continuous attribute domains",
+       "node_2": "A reported weakness of C4.5 in domains with continuous attributes",
+       "edge": ""
+   }, {
+       "node_1": "Tests on continuous attributes",
+       "node_2": "The modifications apply an MDL-inspired penalty to such tests, eliminating some of them from consideration and altering the relative desirability of all tests.",
+       "edge": ""
+   }
+][
+   {
+       "node_1": "machine learning algorithms",
+       "node_2": "optimal way to select training data",
+       "edge": "For many types of machine learning algorithms, one can compute the statistically optimal way to select training data."
+   },
+   {
+       "node_1": "feedforward neural networks",
+       "node_2": "statistically optimal way to select training data",
+       "edge": "Optimal data selection techniques have been used with feedforward neural networks."
+   },
+   {
+       "node_1": "mixtures of Gaussians",
+       "node_2": "statistically optimal way to select training data",
+       "edge": "The same principles may be used to select data for mixtures of Gaussians."
+   },
+   {
+       "node_1": "locally weighted regression",
+       "node_2": "statistically optimal way to select training data",
+       "edge": "The same principles may be used to select data for locally weighted regression."
+   },
+   {
+       "node_1": "efficient and accurate",
+       "node_2": "mixtures of Gaussians and locally weighted regression",
+       "edge": "The techniques for mixtures of Gaussians and locally weighted regression are both efficient and accurate."
+   },
+   {
+       "node_1": "good performance",
+       "node_2": "optimal data selection techniques",
+       "edge": "Empirically, we observe that the optimality criterion sharply decreases the number of training examples the learner needs in order to achieve good performance."
+   }
+][
+   {
+       "node_1": "diverging proof attempts",
+       "node_2": "Inductive theorem provers",
+       "edge": "often"
+   },
+   {
+       "node_1": "computer program",
+       "node_2": "critic",
+       "edge": "describes"
+   },
+   {
+       "node_1": "proof attempt",
+       "node_2": "diverging proof attempts",
+       "edge": "is"
+   },
+   {
+       "node_1": "computer program",
+       "node_2": "critic",
+       "edge": "monitors"
+   },
+   {
+       "node_1": "proof attempt",
+       "node_2": "difference matching",
+       "edge": "recognizes"
+   },
+   {
+       "node_1": "computer program",
+       "node_2": "critic",
+       "edge": "proposes"
+   },
+   {
+       "node_1": "lemmas",
+       "node_2": "critic",
+       "edge": "proposes"
+   },
+   {
+       "node_1": "generalizations",
+       "node_2": "critic",
+       "edge": "proposes"
+   },
+   {
+       "node_1": "differences",
+       "node_2": "proof attempt",
+       "edge": "ripples"
+   }
+][
+  {
+    "node_1": "termination of general logic programs",
+    "node_2": "computational mechanisms used to process negated atoms",
+    "edge": "Many computational mechanisms for processing negated atoms, such as Clark's negation as failure and Chan's constructive negation, are based on termination conditions."
+  },
+  {
+    "node_1": "termination of general logic programs",
+    "node_2": "Prolog selection rule",
+    "edge": "The methodology for proving termination of general logic programs is introduced in relation to the Prolog selection rule."
+  },
+  {
+    "node_1": "low-acceptable program",
+    "node_2": "up-acceptable program",
+    "edge": "The notions of low-, weakly up-, and up-acceptable programs are introduced to distinguish parts of the program based on whether or not their termination depends on the selection rule."
+  },
+  {
+    "node_1": "termination of general logic programs",
+    "node_2": "non-monotonic reasoning",
+    "edge": "The methodology for proving termination of general logic programs is applied to formalize and implement interesting problems in non-monotonic reasoning."
+  }
+][
+   {
+       "node_1": "Clustering",
+       "node_2": "Structure in data",
+       "edge": "Clustering is often used for discovering structure in data."
+   },
+   {
+       "node_1": "Quality of clustering",
+       "node_2": "Evaluation objective function",
+       "edge": "Ideally, the search strategy should consistently construct clusterings of high quality, but be computationally inexpensive as well. In general, we cannot have it both ways, but we can partition the search so that a system inexpensively constructs a `tentative' clustering for initial examination, followed by iterative optimization, which continues to search in background for improved clusterings."
+   },
+   {
+       "node_1": "Control strategy",
+       "node_2": "Iterative optimization",
+       "edge": "Each of which repeatedly modifies an initial clustering in search of a better one. One of these methods appears novel as an iterative optimization strategy in clustering contexts."
+   },
+   {
+       "node_1": "Performance task",
+       "node_2": "Pattern completion",
+       "edge": "Several authors have abstracted these criteria and posited a generic performance task akin to pattern completion, where the error rate over completed patterns is used to `externally' judge clustering utility."
+   },
+   {
+       "node_1": "Resampling-based pruning strategies",
+       "node_2": "Simplifying hierarchical clusterings",
+       "edge": "Given this performance task, we adapt resampling-based pruning strategies used by supervised learning systems to the task of simplifying hierarchical clusterings, thus promising to ease post-clustering analysis."
+   },
+   {
+       "node_1": "Attribute-selection measures",
+       "node_2": "Decision-tree induction",
+       "edge": "Finally, we propose a number of objective functions, based on attribute-selection measures for decision-tree induction, that might perform well on the error rate and simplicity dimensions."
+   }
+][
+   {
+      "node_1": "Occam's razor",
+      "node_2": "Utility of Occam's razor",
+      "edge": "This paper presents new experimental evidence against the utility of Occam's razor."
+   },
+   {
+      "node_1": "Decision trees produced by C4.5",
+      "node_2": "Post-processing decision trees",
+      "edge": "A systematic procedure is presented for post-processing decision trees produced by C4.5."
+   },
+   {
+      "node_1": "Similar objects",
+      "node_2": "Same class",
+      "edge": "This procedure was derived by rejecting Occam's razor and instead attending to the assumption that similar objects are likely to belong to the same class."
+   },
+   {
+      "node_1": "Decision trees",
+      "node_2": "More complex decision trees",
+      "edge": "The resulting more complex decision trees are demonstrated to have, on average, for a variety of common learning tasks, higher predictive accuracy than the less complex original decision trees."
+   },
+   {
+      "node_1": "Occam's razor",
+      "node_2": "Utility of Occam's razor",
+      "edge": "This result raises considerable doubt about the utility of Occam's razor as it is commonly applied in modern machine learning."
+   }
+][
+   {
+       "node_1": "least generalization",
+       "node_2": "finite set of clauses containing at least one non-tautologous function-free clause (among other, not necessarily function-free clauses)",
+       "edge": "existence under implication in each of the six ordered sets"
+   }, {
+       "node_1": "least generalization",
+       "node_2": "background knowledge",
+       "edge": "need not exist under relative implication, not even if both the set that is to be generalized and the background knowledge are function-free"
+   }, {
+       "node_1": "greatest specialization",
+       "node_2": "sets of clauses in each of the six ordered languages",
+       "edge": "complete discussion of existence and non-existence"
+   }
+][
+   {
+       "node_1": "reinforcement learning",
+       "node_2": "learning through trial-and-error interactions with a dynamic environment",
+       "edge": "reinforcement learning is the problem faced by an agent that learns behavior through trial-and-error interactions with a dynamic environment."
+   }, {
+       "node_1": "computer science perspective",
+       "node_2": "machine learning",
+       "edge": "this paper surveys the field of reinforcement learning from a computer science perspective, which is written to be accessible to researchers familiar with machine learning."
+   }, {
+       "node_1": "reinforcement",
+       "node_2": "resemblance to work in psychology",
+       "edge": "the work described here has a resemblance to work in psychology, but differs considerably in the details and in the use of the word \"reinforcement\"."
+   }, {
+       "node_1": "Markov decision theory",
+       "node_2": "establishing the foundations of the field",
+       "edge": "the central issues of reinforcement learning, including establishing the foundations of the field via Markov decision theory, are discussed in this paper."
+   }, {
+       "node_1": "trading off exploration and exploitation",
+       "node_2": "central issues of reinforcement learning",
+       "edge": "the central issues of reinforcement learning, including trading off exploration and exploitation, are discussed in this paper."
+   }, {
+       "node_1": "delayed reinforcement",
+       "node_2": "learning from delayed reinforcement",
+       "edge": "the central issues of reinforcement learning, including learning from delayed reinforcement, are discussed in this paper."
+   }, {
+       "node_1": "empirical models",
+       "node_2": "accelerating learning",
+       "edge": "the central issues of reinforcement learning, including constructing empirical models to accelerate learning, are discussed in this paper."
+   }, {
+       "node_1": "generalization and hierarchy",
+       "node_2": "making use of generalization and hierarchy",
+       "edge": "the central issues of reinforcement learning, including making use of generalization and hierarchy, are discussed in this paper."
+   }, {
+       "node_1": "hidden state",
+       "node_2": "coping with hidden state",
+       "edge": "the central issues of reinforcement learning, including coping with hidden state, are discussed in this paper."
+   }, {
+       "node_1": "practical utility",
+       "node_2": "assessment of practical utility",
+       "edge": "this paper concludes with a survey of some implemented systems and an assessment of the practical utility of current methods for reinforcement learning."
+   }
+][
+   {
+       "node_1": "scheduling problems",
+       "node_2": "domain specific techniques",
+       "edge": "Although most scheduling problems are NP-hard, domain specific techniques perform well in practice but are quite expensive to construct."
+   },
+   {
+       "node_1": "adaptive problem-solving solving",
+       "node_2": "domain specific knowledge",
+       "edge": "In adaptive problem-solving solving, domain specific knowledge is acquired automatically for a general problem solver with a flexible control architecture."
+   },
+   {
+       "node_1": "learning system",
+       "node_2": "space of possible heuristic methods",
+       "edge": "In this approach, a learning system explores a space of possible heuristic methods for one well-suited to the eccentricities of the given domain and problem distribution."
+   },
+   {
+       "node_1": "scheduling satellite communications",
+       "node_2": "problem distributions based on actual mission requirements",
+       "edge": "Using problem distributions based on actual mission requirements, our approach identifies strategies that not only decrease the amount of CPU time required to produce schedules, but also increase the percentage of problems that are solvable within computational resource limitations."
+   }
+][
+   {
+       "node_1": "Speedup learning",
+       "node_2": "Problem solving with experience",
+       "edge": "Seeks to improve computational efficiency"
+   },
+   {
+       "node_1": "Speedup learning",
+       "node_2": "Random problems and their solutions",
+       "edge": "Applies to two different representations of learned knowledge: control rules and macro-operators, and proves theorems that identify sufficient conditions for learning in each representation"
+   },
+   {
+       "node_1": "Symbolic integration",
+       "node_2": "Speedup learning framework",
+       "edge": "Illustrates framework with implementation in two domains: symbolic integration and Eight Puzzle"
+   },
+   {
+       "node_1": "Eight Puzzle",
+       "node_2": "Speedup learning framework",
+       "edge": "Illustrates framework with implementation in two domains: symbolic integration and Eight Puzzle"
+   },
+   {
+       "node_1": "Empirical learning of control rules",
+       "node_2": "Speedup learning framework",
+       "edge": "Integrates many strands of experimental and theoretical work in machine learning"
+   },
+   {
+       "node_1": "Macro-operator learning",
+       "node_2": "Speedup learning framework",
+       "edge": "Integrates many strands of experimental and theoretical work in machine learning"
+   },
+   {
+       "node_1": "Explanation-Based Learning (EBL)",
+       "node_2": "Speedup learning framework",
+       "edge": "Integrates many strands of experimental and theoretical work in machine learning"
+   }
+][
+   {
+       "node_1": "full knowledge of the conditions under which the plan will be executed",
+       "node_2": "uncertainty in the world",
+       "edge": "opposite concepts"
+   },
+   {
+       "node_1": "classical AI planners",
+       "node_2": "Cassandra",
+       "edge": "different types of planners"
+   },
+   {
+       "node_1": "explicit decision-steps",
+       "node_2": "action outcome predictability",
+       "edge": "incompatibility"
+   },
+   {
+       "node_1": "decision-making procedures",
+       "node_2": "different decision-making procedures",
+       "edge": "availability in Cassandra"
+   }
+][
+   {
+       "node_1": "collection of geometric bodies",
+       "node_2": "configuration of a collection of geometric bodies",
+       "edge": "the process of finding the configuration of a collection of geometric bodies to satisfy given constraints is an important problem in geometric reasoning."
+   },
+   {
+       "node_1": "degrees of freedom analysis",
+       "node_2": "efficiently solving the problem of finding the configuration of a collection of geometric bodies to satisfy given constraints by symbolically reasoning about geometry",
+       "edge": "recently suggested approach"
+   },
+   {
+       "node_1": "plan fragments",
+       "node_2": "specialized routines used in degrees of freedom analysis to change the configuration of a set of bodies to satisfy new constraints while preserving existing constraints",
+       "edge": "a set of plan fragments is employed in degrees of freedom analysis"
+   },
+   {
+       "node_1": "geometric bodies",
+       "node_2": "collection of geometric shapes or objects",
+       "edge": "the problem of finding the configuration of a collection of geometric bodies to satisfy given constraints applies to geometric bodies."
+   },
+   {
+       "node_1": "actions",
+       "node_2": "set of operations or transformations that can be performed on geometric bodies",
+       "edge": "first principles about geometric bodies and actions are used to automatically synthesize plan fragments."
+   },
+   {
+       "node_1": "topology",
+       "node_2": "study of the properties that are preserved under continuous transformations (such as bending, stretching, or crumpling) while preserving the connectivity of a space",
+       "edge": "first principles about geometric bodies and topology are used to automatically synthesize plan fragments."
+   }
+][
+   {
+       "node_1": "multi-agent system",
+       "node_2": "partially controlled multi-agent system",
+       "edge": "A partially controlled multi-agent system is a type of multi-agent system where some agents are directly controlled by the designer and others are not."
+   },
+   {
+       "node_1": "controllable agent",
+       "node_2": "partially controlled multi-agent system",
+       "edge": "Controllable agents are agents that are directly controlled by the designer within a partially controlled multi-agent system."
+   },
+   {
+       "node_1": "uncontrollable agent",
+       "node_2": "partially controlled multi-agent system",
+       "edge": "Uncontrollable agents are not under the direct control of the designer within a partially controlled multi-agent system."
+   },
+   {
+       "node_1": "designer",
+       "node_2": "controllable agent",
+       "edge": "The designer directly controls the behavior of controllable agents in a partially controlled multi-agent system."
+   },
+   {
+       "node_1": "expected utility maximizer",
+       "node_2": "uncontrollable agent",
+       "edge": "In one context, the uncontrollable agents are expected utility maximizers within a partially controlled multi-agent system."
+   },
+   {
+       "node_1": "reinforcement learner",
+       "node_2": "uncontrollable agent",
+       "edge": "In another context, the uncontrollable agents are reinforcement learners within a partially controlled multi-agent system."
+   },
+   {
+       "node_1": "designer",
+       "node_2": "uncontrollable agent",
+       "edge": "The designer influences the behavior of uncontrollable agents in a partially controlled multi-agent system through appropriate design of the controlled agents."
+   }
+] 
+[
+   {
+       "node_1": "Visual thinking",
+       "node_2": "Scientific reasoning",
+       "edge": "The given context highlights the importance of visual thinking in scientific reasoning."
+   },
+   {
+       "node_1": "Imagistic reasoning",
+       "node_2": "Expert level performance",
+       "edge": "Programs incorporating imagistic reasoning can perform at an expert level in domains that defy current analytic or numerical methods, as demonstrated by the research mentioned in the context."
+   },
+   {
+       "node_1": "Imagistic reasoning",
+       "node_2": "Image-like analogue representations",
+       "edge": "Imagistic reasoning organizes computations around image-like, analogue representations as identified through research on automating diverse reasoning tasks."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Unified description of imagistic problem solvers",
+       "edge": "A program written in the spatial aggregation paradigm unifies the description of a class of imagistic problem solvers."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Continuous field",
+       "edge": "A program written in this paradigm takes a continuous field as input."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Optional objective functions",
+       "edge": "A program written in this paradigm may take optional objective functions as input."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "High-level descriptions of structure, behavior, or control actions",
+       "edge": "A program written in this paradigm produces high-level descriptions of structure, behavior, or control actions."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Intermediate representations",
+       "edge": "A program written in this paradigm computes a multi-layer of intermediate representations called spatial aggregates."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Equivalence classes and adjacency relations",
+       "edge": "A program written in this paradigm forms equivalence classes and adjacency relations to compute spatial aggregates."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Generic operators",
+       "edge": "A program written in this paradigm employs a small set of generic operators such as aggregation, classification, and localization to perform bidirectional mapping between the information-rich field and successively more abstract spatial aggregates."
+   },
+   {
+       "node_1": "Spatial aggregation",
+       "node_2": "Neighborhood graph",
+       "edge": "A program written in this paradigm uses a data structure called the neighborhood graph as a common interface to modularize computations."
+   },
+   {
+       "node_1": "KAM",
+       "node_2": "Implemented problem solver",
+       "edge": "The given context mentions KAM, an implemented problem solver."
+   },
+   {
+       "node_1": "MAPS",
+       "node_2": "Implemented problem solver",
+       "edge": "The given context mentions MAPS, an implemented problem solver."
+   },
+   {
+       "node_1": "HIPAIR",
+       "node_2": "Implemented problem solver",
+       "edge": "The given context mentions HIPAIR, an implemented problem solver."
+   }
+] 
+[
+   {
+       "node_1": "knowledge base",
+       "node_2": "stable models",
+       "edge": "Finding the stable models of a knowledge base is a significant computational problem in artificial intelligence."
+   },
+   {
+       "node_1": "knowledge base",
+       "node_2": "stratified knowledge base",
+       "edge": "This task is at the computational heart of truth maintenance systems, autoepistemic logic, and default logic. The class Omega_1 contains all stratified knowledge bases."
+   },
+   {
+       "node_1": "knowledge base",
+       "node_2": "NP-hard",
+       "edge": "Unfortunately, it is NP-hard."
+   },
+   {
+       "node_1": "stable models",
+       "node_2": "Omegak",
+       "edge": "If a knowledge base Pi is in Omega_k, then Pi has at most k stable models, and all of them may be found in time O(lnk)."
+   },
+   {
+       "node_1": "knowledge base",
+       "node_2": "minimum k",
+       "edge": "For an arbitrary knowledge base Pi, we can find the minimum k such that Pi belongs to Omega_k in time polynomial in the size of Pi."
+   },
+   {
+       "node_1": "class",
+       "node_2": "hierarchy",
+       "edge": "This hierarchy consists of classes Omega_1,Omega_2,..., with the properties mentioned in the text."
+   }
+][
+   {
+       "node_1": "domain-independent techniques",
+       "node_2": "practicality of well-founded partial-order planners",
+       "edge": "The author proposes some domain-independent techniques for bringing well-founded partial-order planners closer to practicality."
+   },
+   {
+       "node_1": "search control",
+       "node_2": "well-founded partial-order planners",
+       "edge": "The author aims at improving search control while keeping overhead costs low for well-founded partial-order planners."
+   },
+   {
+       "node_1": "A* heuristic",
+       "node_2": "search control",
+       "edge": "The author proposes a simple adjustment to the default A* heuristic used by UCPOP for search control."
+   },
+   {
+       "node_1": "zero commitment plan refinements",
+       "node_2": "preferring zero commitment plan refinements",
+       "edge": "The author prefers 'zero commitment' (forced) plan refinements whenever possible during planning."
+   },
+   {
+       "node_1": "LIFO prioritization",
+       "node_2": "preferring zero commitment plan refinements",
+       "edge": "The author uses LIFO prioritization otherwise during planning."
+   },
+   {
+       "node_1": "operator parameter domains",
+       "node_2": "pruning search",
+       "edge": "The author uses operator parameter domains to prune search during planning."
+   },
+   {
+       "node_1": "initial and goal conditions",
+       "node_2": "operator parameter domains",
+       "edge": "The author initially computes parameter domains from the definitions of operators and initial and goal conditions using a polynomial-time algorithm that propagates sets of constants through the operator graph, starting in the initial conditions during planning."
+   },
+   {
+       "node_1": "spurious clobbering threats",
+       "node_2": "pruning nonviable operator instances",
+       "edge": "During planning, parameter domains can be used to prune nonviable operator instances and to remove spurious clobbering threats."
+   },
+   {
+       "node_1": "speedups",
+       "node_2": "experiments based on modifications of UCPOP",
+       "edge": "The author's improved plan and goal selection strategies gave speedups by factors ranging from 5 to more than 1000 for a variety of problems that are nontrivial for the unmodified version during experiments."
+   },
+   {
+       "node_1": "hardest problems",
+       "node_2": "speedups",
+       "edge": "Crucially, the hardest problems gave the greatest improvements during experiments."
+   },
+   {
+       "node_1": "Lisp code",
+       "node_2": "techniques and test problems",
+       "edge": "The author provides the Lisp code for their techniques and for the test problems in on-line appendices."
+   }
+][
+   {
+       "node_1": "discourse sense",
+       "node_2": "automatically construct classification models",
+       "edge": "makes it easier to comparatively analyze the utility of alternative feature representations of the data"
+   },
+   {
+       "node_1": "discourse sense",
+       "node_2": "manually derived classification models already in the literature",
+       "edge": "when compared to, the learned models often perform with higher accuracy and contain new linguistic insights into the data"
+   },
+   {
+       "node_1": "sentential sense",
+       "node_2": "cue phrases may be used",
+       "edge": "correctly classifying cue phrases as discourse or sentential is critical in natural language processing systems that exploit discourse structure"
+   },
+   {
+       "node_1": "sentential sense",
+       "node_2": "semantic rather than structural information",
+       "edge": "cue phrases may be used in a sentential sense to convey semantic rather than structural information"
+   },
+   {
+       "node_1": "discourse sense",
+       "node_2": "explicitly signal discourse structure",
+       "edge": "cue phrases may be used in a discourse sense to explicitly signal discourse structure"
+   }
+][
+   {
+       "node_1": "Domain theory of negotiation",
+       "node_2": "Interaction classification",
+       "edge": "A way of classifying interactions so that it is clear, given a domain, which negotiation mechanisms and strategies are appropriate. We define State Oriented Domains, a general category of interaction."
+   }, {
+       "node_1": "Cooperation",
+       "node_2": "Interaction classification",
+       "edge": "Necessary and sufficient conditions for cooperation are outlined."
+   }, {
+       "node_1": "Worth",
+       "node_2": "Utility",
+       "edge": "We use the notion of worth in an altered definition of utility, thus enabling agreements in a wider class of joint-goal reachable situations."
+   }, {
+       "node_1": "Conflict resolution",
+       "node_2": "Interaction classification",
+       "edge": "An approach is offered for conflict resolution, and it is shown that even in a conflict situation, partial cooperative steps can be taken by interacting agents (that is, agents in fundamental conflict might still agree to cooperate up to a certain point)."
+   }, {
+       "node_1": "Unified Negotiation Protocol",
+       "node_2": "Interaction classification",
+       "edge": "A Unified Negotiation Protocol (UNP) is developed that can be used in all types of encounters."
+   }, {
+       "node_1": "Partial cooperative agreement",
+       "node_2": "Cooperation",
+       "edge": "In certain borderline cooperative situations, a partial cooperative agreement (i.e., one that does not achieve all agents' goals) might be preferred by all agents, even though there exists a rational agreement that would achieve all their goals."
+   }, {
+       "node_1": "Goal declaration strategies",
+       "node_2": "Private information",
+       "edge": "First we consider the case where agents' goals are private information, and we analyze what goal declaration strategies the agents might adopt to increase their utility."
+   }, {
+       "node_1": "Worth attached to goals",
+       "node_2": "Common knowledge",
+       "node_3": "Private information",
+       "edge": [
+           { "source": "node_1", "target": "node_2" },
+           { "source": "node_2", "target": "node_3" }
+       ],
+       "description": "We consider the situation where the agents' goals (and therefore stand-alone costs) are common knowledge, but the worth they attach to their goals is private information."
+   }, {
+       "node_1": "Strict mechanism",
+       "node_2": "Tolerant mechanism",
+       "node_3": "Negotiation outcomes",
+       "edge": [
+           { "source": "node_1", "target": "node_2" },
+           { "source": "node_2", "target": "node_3" }
+       ],
+       "description": "Introduce two mechanisms, one 'strict', the other 'tolerant', and analyze their affects on the stability and efficiency of negotiation outcomes."
+   }
+][
+   {
+       "node_1": "First-order learning",
+       "node_2": "Finding a clause-form definition of a relation",
+       "edge": "Involves"
+   },
+   {
+       "node_1": "Functional relations",
+       "node_2": "Findings definitions",
+       "edge": "Customization for"
+   },
+   {
+       "node_1": "Faster learning times",
+       "node_2": "Restriction",
+       "edge": "Leads to"
+   },
+   {
+       "node_1": "Higher predictive accuracy",
+       "node_2": "Definitions",
+       "edge": "In some cases, result of"
+   }
+][
+   {
+       "node_1": "MUSE CSP",
+       "node_2": "Constraint Satisfaction Problem (CSP)",
+       "edge": "Extension of CSP called MUSE CSP is especially useful for problems that segment into multiple sets of partially shared variables, arising naturally in signal processing applications including computer vision, speech processing, and handwriting recognition."
+   },
+   {
+       "node_1": "MUSE CSP",
+       "node_2": "Low-level information utilized by segmentation algorithms",
+       "edge": "Such problems often have difficulty segmenting data in only one way given the low-level information."
+   },
+   {
+       "node_1": "MUSE CSP",
+       "node_2": "Signal processing applications including computer vision, speech processing, and handwriting recognition",
+       "edge": "MUSE CSP can be used to compactly represent several similar instances of the constraint satisfaction problem."
+   },
+   {
+       "node_1": "MUSE node consistency",
+       "node_2": "MUSE CSP",
+       "edge": "Introduced concepts for MUSE node consistency, MUSE arc consistency, and MUSE path consistency."
+   },
+   {
+       "node_1": "MUSE arc consistency",
+       "node_2": "MUSE CSP",
+       "edge": "Algorithms provided for MUSE arc and path consistency."
+   },
+   {
+       "node_1": "Lexically ambiguous sentences",
+       "node_2": "MUSE CSP",
+       "edge": "Demonstrated how MUSE CSP can be used to compactly represent lexically ambiguous sentences and multiple sentence hypotheses generated by speech recognition algorithms."
+   },
+   {
+       "node_1": "Set of CSPs",
+       "node_2": "MUSE CSP",
+       "edge": "Discussed how to create a MUSE CSP from a set of CSPs labeled to indicate when the same variable is shared by more than a single CSP."
+   },
+   {
+       "node_1": "CSP",
+       "node_2": "MUSE CSP",
+       "edge": "MUSE CSP can be used to compactly represent several similar instances of the constraint satisfaction problem, reducing the work required to apply the constraints for problems which segment into multiple sets of partially shared variables."
+   }
+][
+   {
+       "node_1": "Bayesian network",
+       "node_2": "joint probability",
+       "edge": "represents a factorization of the joint probability into conditional probabilities"
+   },
+   {
+       "node_1": "causal independence",
+       "node_2": "Bayesian network",
+       "edge": "enables one to further factorize the conditional probabilities into smaller factors"
+   },
+   {
+       "node_1": "conditional probability",
+       "node_2": "variable",
+       "node_3": "parents",
+       "edge": "can be specified in terms of an associative and commutative operator on the contribution of each parent (e.g., 'or', 'sum', or 'max')"
+   },
+   {
+       "node_1": "VE algorithm",
+       "node_2": "Bayesian network inference",
+       "edge": "uses the factorization to find the posterior distribution of the query"
+   },
+   {
+       "node_1": "causal independence",
+       "node_2": "VE algorithm",
+       "edge": "extends VE algorithm to exploit causal independence"
+   },
+   {
+       "node_1": "CPCS networks for medical diagnosis",
+       "node_2": "Bayesian network inference",
+       "edge": "empirical studies based on these networks show that the proposed method is more efficient than previous methods and allows for inference in larger networks than previous algorithms"
+   }
+][
+   {
+      "node_1": "handwriting recognition",
+      "node_2": "electronic organizer",
+      "edge": "Handwriting recognition is a feature that can be implemented in an electronic organizer to efficiently enter information into a computer. This paper highlights its usage and compares its speed with other input methods for adding a person's name and address."
+   },
+   {
+      "node_1": "adaptive menus",
+      "node_2": "electronic organizer",
+      "edge": "Adaptive menus are another intelligent user interface that can be integrated into an electronic organizer to facilitate fast information entry, as demonstrated in this paper while adding a person's name and address."
+   },
+   {
+      "node_1": "predictive fillin",
+      "node_2": "electronic organizer",
+      "edge": "Predictive fillin is another user interface that can be implemented in an electronic organizer to efficiently enter information into a computer, as shown in this paper for adding a person's name and address. Its speed can be twice as fast compared to other methods."
+   },
+   {
+      "node_1": "person's name",
+      "node_2": "electronic organizer",
+      "edge": "A person's name is a concept that can be entered into an electronic organizer using handwriting recognition, adaptive menus, or predictive fillin, as illustrated in this paper."
+   },
+   {
+      "node_1": "person's address",
+      "node_2": "electronic organizer",
+      "edge": "A person's address is another concept that can be added to an electronic organizer using the aforementioned intelligent user interfaces, as demonstrated in this paper."
+   }
+][
+   {
+      "node_1": "decomposable dependency models",
+      "node_2": "independence relationships",
+      "edge": "Decomposable dependency models possess a number of interesting and useful properties. These properties are characterized by adding a single axiom to the well-known set characterizing dependency models isomorphic to undirected graphs, resulting in new characterizations in terms of independence relationships."
+   },
+   {
+      "node_1": "decomposable dependency models",
+      "node_2": "graphical models",
+      "edge": "Our results also briefly discuss a potential application of the new characterizations to the problem of learning graphical models from data."
+   }
+][
+   {
+       "node_1": "Instance-based learning techniques",
+       "node_2": "Nominal input attributes",
+       "edge": "The Value Difference Metric (VDM) was designed to find reasonable distance values between nominal attribute values, but it largely ignores continuous attributes, requiring discretization to map continuous values into nominal values."
+   }, {
+       "node_1": "Instance-based learning techniques",
+       "node_2": "Continuous input values",
+       "edge": "These new distance functions (HVDM, IVDM, WVDM) are designed to handle applications with continuous attributes."
+   }, {
+       "node_1": "Distance functions",
+       "node_2": "Classification accuracy",
+       "edge": "In experiments on 48 applications, the new distance metrics achieve higher classification accuracy on average than three previous distance functions on those datasets that have both nominal and continuous attributes."
+   }, {
+       "node_1": "Nominal input attributes",
+       "node_2": "Continuous input values",
+       "edge": "The paper proposes three new heterogeneous distance functions (HVDM, IVDM, WVDM) that are designed to handle applications with nominal attributes, continuous attributes, or both."
+   }
+][
+   {
+       "node_1": "spontaneously spoken language",
+       "node_2": "hand-coded symbolic grammar or symbolic semantic component",
+       "edge": "approaches often have been based on encoding syntactic and semantic knowledge manually and symbolically, in contrast to the screening approach described in this paper." },
+   {
+       "node_1": "screening approach",
+       "node_2": "hand-coded symbolic grammar or symbolic semantic component",
+       "edge": "is a flat analysis which uses shallow sequences of category representations for analyzing an utterance at various syntactic, semantic and dialog levels, in contrast to the deeply structured symbolic analysis." },
+   {
+       "node_1": "spontaneously spoken language",
+       "node_2": "deeply structured symbolic analysis",
+       "edge": "approaches often have been based on encoding syntactic and semantic knowledge manually and symbolically, in contrast to the screening approach described in this paper." },
+   {
+       "node_1": "screening approach",
+       "node_2": "data-driven learning",
+       "edge": "uses (1) data-driven learning and (2) robustness of connectionist networks for supporting speech and language processing, rather than using a deeply structured symbolic analysis." },
+   {
+       "node_1": "screening approach",
+       "node_2": "connectionist networks",
+       "edge": "allows more robust processing of spontaneous spoken language than deeply structured representations." }
+][
+   {
+       "node_1": "class definition",
+       "node_2": "recursive definitions",
+       "edge": "allows for different semantics to coexist in knowledge representation formalism, muALCQ. Recursive definitions enable frame-based descriptions and definitions of recursive data structures such as directed acyclic graphs, lists, streams, etc."
+   },
+   {
+       "node_1": "muALCQ",
+       "node_2": "modal mu-calculus",
+       "edge": "formulated correspondence to establish several properties of muALCQ, including decidability and computational complexity of reasoning"
+   }
+][
+  {
+    "node_1": "lifeworld",
+    "node_2": "agent/environment interactions",
+    "edge": "The analysis of agent/environment interactions should be extended to include the conventions and invariants maintained by agents throughout their activity. This thicker notion of environment is referred to as a lifeworld."
+  },
+  {
+    "node_1": "lifeworld",
+    "node_2": "computational simplification of activity",
+    "edge": "Lifeworlds computationally simplify activity by providing structures that are maintained throughout agent activity."
+  },
+  {
+    "node_1": "lifeworld",
+    "node_2": "conventions and invariants",
+    "edge": "A lifeworld is defined by the conventions and invariants maintained by agents during their activity."
+  },
+  {
+    "node_1": "agent/environment interactions",
+    "node_2": "conventions and invariants",
+    "edge": "Conventions and invariants are maintained by agents during their interaction with the environment."
+  },
+  {
+    "node_1": "Toast system",
+    "node_2": "lifeworlds",
+    "edge": "The Toast system is analyzed as a specific example of a lifeworld."
+  },
+  {
+    "node_1": "Toast system",
+    "node_2": "control structures",
+    "edge": "Different versions of the Toast system implement different control structures within a common lifeworld structure."
+  }
+][
+   {
+       "node_1": "belief networks",
+       "node_2": "Q-DAGs",
+       "edge": "new paradigm for implementing inference, consists of two steps: compilation and evaluation"
+   },
+   {
+       "node_1": "belief networks",
+       "node_2": "network queries",
+       "edge": "each leaf node represents the answer to a network query"
+   },
+   {
+       "node_1": "Q-DAGs",
+       "node_2": "numeric operations",
+       "edge": "each node of a Q-DAG represents a numeric operation"
+   },
+   {
+       "node_1": "Q-DAGs",
+       "node_2": "evidence symbols",
+       "edge": "each leaf node represents evidence for an event"
+   },
+   {
+       "node_1": "standard algorithms for exact inference",
+       "node_2": "Q-DAG generation algorithm",
+       "edge": "can be generated using clustering and conditioning algorithms, time complexity is no worse than the time complexity of the inference algorithm"
+   },
+   {
+       "node_1": "standard algorithms for exact inference",
+       "node_2": "Q-DAG evaluation algorithm",
+       "edge": "time and space complexity is linear in the size of the Q-DAG, standard evaluation of arithmetic expression"
+   },
+   {
+       "node_1": "belief networks",
+       "node_2": "on-line, real-world applications",
+       "edge": "reduces software and hardware resources required for inference"
+   }
+][
+   {
+       "node_1": "An algorithm that learns from a set of examples",
+       "node_2": "Abundant computing power",
+       "edge": "The ability to exploit abundant computing power improves the algorithm's ability to generalize."
+   },
+   {
+       "node_1": "An algorithm that learns from a set of examples",
+       "node_2": "Domain-specific knowledge",
+       "edge": "Connectionist theory-refinement systems use domain-specific knowledge to select a neural network's topology and initial weights, which helps exploit domain-specific knowledge."
+   },
+   {
+       "node_1": "REGENT algorithm",
+       "node_2": "An initial population of knowledge-based neural networks",
+       "edge": "The REGENT algorithm uses domain-specific knowledge to create an initial population of knowledge-based neural networks."
+   },
+   {
+       "node_1": "REGENT algorithm",
+       "node_2": "Genetic operators of crossover and mutation (specifically designed for knowledge-based networks)",
+       "edge": "The REGENT algorithm uses genetic operators to continually search for better network topologies."
+   },
+   {
+       "node_1": "REGENT algorithm",
+       "node_2": "Better network topologies",
+       "edge": "By using genetic operators, the REGENT algorithm is able to refine the topology of the neural networks it produces, which helps improve generalization, especially when given impoverished domain theories."
+   }
+][
+   {
+       "node_1": "Least-Cost Flaw Repair (LCFR)",
+       "node_2": "Effective in reducing search-space size",
+       "edge": "For many problems, combining least-cost flaw selection with delaying separable threats leads to an effective strategy for reducing search-space size without excessive computational overhead. Although this strategy provides a good default, its effectiveness may be reduced by certain domain characteristics."
+   }, {
+       "node_1": "LCFR",
+       "node_2": "ZLIFO Strategy",
+       "edge": "Gerevini and Schubert's ZLIFO strategy makes conflicting claims about the most effective way to reduce search-space size in POCL planning, but much of its benefit is better attributed to other causes. The delay of separable threats in LCFR helps to resolve this conflict."
+   }
+] 
+
+Note: The output assumes that the reviewer has extracted the concepts "Least-Cost Flaw Repair (LCFR)", "Effective in reducing search-space size", "ZLIFO Strategy", and "Domain Characteristics" from the given context. The relationships between these concepts have been identified based on the information provided. The output can be further refined by extracting more specific terms and their relations, but this example illustrates the basic concept of network graph generation using a given context.
+
+ERROR ### Here is the buggy response:  [
+   {
+       "node_1": "Least-Cost Flaw Repair (LCFR)",
+       "node_2": "Effective in reducing search-space size",
+       "edge": "For many problems, combining least-cost flaw selection with delaying separable threats leads to an effective strategy for reducing search-space size without excessive computational overhead. Although this strategy provides a good default, its effectiveness may be reduced by certain domain characteristics."
+   }, {
+       "node_1": "LCFR",
+       "node_2": "ZLIFO Strategy",
+       "edge": "Gerevini and Schubert's ZLIFO strategy makes conflicting claims about the most effective way to reduce search-space size in POCL planning, but much of its benefit is better attributed to other causes. The delay of separable threats in LCFR helps to resolve this conflict."
+   }
+] 
+
+Note: The output assumes that the reviewer has extracted the concepts "Least-Cost Flaw Repair (LCFR)", "Effective in reducing search-space size", "ZLIFO Strategy", and "Domain Characteristics" from the given context. The relationships between these concepts have been identified based on the information provided. The output can be further refined by extracting more specific terms and their relations, but this example illustrates the basic concept of network graph generation using a given context. 
+
+
+[
+   {
+       "node_1": "RCC-5",
+       "node_2": "spatial algebra",
+       "edge": "RCC-5 is a restricted version of the RCC framework, which is a spatial algebra used for spatial reasoning."
+   },
+   {
+       "node_1": "satisfiability problem",
+       "node_2": "RCC-5",
+       "edge": "The satisfiability problem for RCC-5 is a computational property that has been shown to be NP-complete."
+   },
+   {
+       "node_1": "subclasses of RCC-5",
+       "node_2": "approximately four billion",
+       "edge": "RCC-5 has approximately four billion subclasses, but not much is known about their computational properties."
+   },
+   {
+       "node_1": "satisfiability problem for all subclasses",
+       "node_2": "polynomial or NP-complete",
+       "edge": "We provide a complete classification of the satisfiability problem for all these subclasses, which we find to be either polynomial or NP-complete."
+   },
+   {
+       "node_1": "maximal tractable subalgebras",
+       "node_2": "four in total",
+       "edge": "In the process of our investigation, we identify all maximal tractable subalgebras, which number four in total."
+   }
+][
+  {
+    "node_1": "easy-hard-easy pattern",
+    "node_2": "competition between decrease in number of solutions and increased pruning",
+    "edge": "The easy-hard-easy pattern in the difficulty of combinatorial search problems as constraints are added has been explained as due to a competition between the decrease in number of solutions and increased pruning."
+  },
+  {
+    "node_1": "search cost",
+    "node_2": "easy-hard-easy pattern",
+    "edge": "For some search methods, the easy-hard-easy pattern is observed even when the number of solutions is held constant, leading to a monotonic decrease in search cost as constraints are added."
+  },
+  {
+    "node_1": "search cost",
+    "node_2": "median search cost",
+    "edge": "In these cases, the easy-hard-easy pattern appears to be due to changes in the size of the minimal unsolvable subproblems, rather than changing numbers of solutions."
+  },
+  {
+    "node_1": "search cost",
+    "node_2": "number of solutions",
+    "edge": "If the number of solutions is held fixed by the choice of problems, then increased pruning should lead to a monotonic decrease in search cost, according to existing theory."
+  },
+  {
+    "node_1": "search method",
+    "node_2": "easy-hard-easy pattern",
+    "edge": "The easy-hard-easy pattern is observed for some search methods even when the number of solutions is held constant."
+  }
+][
+   {
+       "node_1": "Allen's interval algebra",
+       "node_2": "maximal tractable subclasses of Allen's interval algebra",
+       "edge": "This paper combines two important directions of research in temporal resoning: that of finding maximal tractable subclasses of Allen's interval algebra, and that of reasoning with metric temporal information."
+   },
+   {
+       "node_1": "Allen's interval algebra",
+       "node_2": "eight new maximal tractable subclasses of Allen's interval algebra",
+       "edge": "Eight new maximal tractable subclasses of Allen's interval algebra are presented, some of them subsuming previously reported tractable algebras."
+   },
+   {
+       "node_1": "Allen's interval algebra",
+       "node_2": "Horn DLRs",
+       "edge": "The algebras allow for metric temporal constraints on interval starting or ending points, using the recent framework of Horn DLRs."
+   },
+   {
+       "node_1": "two algebras",
+       "node_2": "sequentiality between intervals",
+       "edge": "Two of the algebras can express the notion of sequentiality between intervals, being the first such algebras admitting both qualitative and metric time."
+   }
+][
+   {
+       "node_1": "likelihood ordering on worlds",
+       "node_2": "logic of relative likelihood",
+       "edge": "Starting with a likelihood or preference order on worlds, we extend it to a likelihood ordering on sets of worlds in a natural way, and examine the resulting logic. This approach is used to study counterfactuals, and Lewis earlier considered such a notion of relative likelihood for total preference orders on worlds. However, complications arise when examining partial orders that are not present for total orders, and there are subtleties involving the exact approach to lifting the order on worlds to an order on sets of worlds."
+   },
+   {
+       "node_1": "logic of relative likelihood",
+       "node_2": "default reasoning",
+       "edge": "The axiomatization of the logic of relative likelihood in the case of partial orders gives insight into the connection between relative likelihood and default reasoning."
+   }
+][
+   {
+       "node_1": "teamwork",
+       "node_2": "joint intentions",
+       "edge": "STEAM's teamwork is based on agents building up a (partial) hierarchy of joint intentions."
+   },
+   {
+       "node_1": "STEAM",
+       "node_2": "complex, dynamic multi-agent domains",
+       "edge": "Many AI researchers are today striving to build agent teams for complex, dynamic multi-agent domains with intended applications in arenas such as education, training, entertainment, information integration, and collective robotics."
+   },
+   {
+       "node_1": "team members",
+       "node_2": "differing, incomplete, and possibly inconsistent views of their environment",
+       "edge": "Uncertainties in complex, dynamic domains obstruct coherent teamwork as team members often encounter differing, incomplete, and possibly inconsistent views of their environment."
+   },
+   {
+       "node_1": "team members",
+       "node_2": "failed to fulfill responsibilities or discovered unexpected opportunities",
+       "edge": "Furthermore, team members can unexpectedly fail in fulfilling responsibilities or discover unexpected opportunities."
+   },
+   {
+       "node_1": "flexibility",
+       "node_2": "STEAM's central hypothesis",
+       "edge": "Our central hypothesis is that the key to such flexibility and reusability is providing agents with general models of teamwork."
+   },
+   {
+       "node_1": "reusability",
+       "node_2": "STEAM's central hypothesis",
+       "edge": "Our central hypothesis is that the key to such flexibility and reusability is providing agents with general models of teamwork."
+   },
+   {
+       "node_1": "joint intentions",
+       "node_2": "team members",
+       "edge": "In STEAM, teamwork is based on agents' building up a (partial) hierarchy of joint intentions for team members."
+   },
+   {
+       "node_1": "joint intentions",
+       "node_2": "individual members'",
+       "edge": "Furthermore, in STEAM, team members monitor the team's and individual members' performance, reorganizing the team as necessary."
+   },
+   {
+       "node_1": "STEAM",
+       "node_2": "partial SharedPlans",
+       "edge": "STEAM's basic building block of teamwork is joint intentions (Cohen & Levesque, 1991b); teamwork in STEAM is based on agents' building up a (partial) hierarchy of joint intentions, which parallels Grosz & Kraus's partial SharedPlans."
+   },
+   {
+       "node_1": "communication",
+       "node_2": "STEAM",
+       "edge": "Finally, decision-theoretic communication selectivity in STEAM ensures reduction in communication overheads of teamwork, with appropriate sensitivity to the environmental conditions."
+   },
+   {
+       "node_1": "team members'",
+       "node_2": "reorganizing the team",
+       "edge": "In STEAM, team members monitor the team's and individual members' performance, reorganizing the team as necessary."
+   },
+   {
+       "node_1": "STEAM",
+       "node_2": "intended applications in arenas such as education, training, entertainment, information integration, and collective robotics.",
+       "edge": "Many AI researchers are today striving to build agent teams for complex, dynamic multi-agent domains with intended applications in arenas such as education, training, entertainment, information integration, and collective robotics."
+   }
+][
+   {
+       "node_1": "algorithm",
+       "node_2": "SEQUITUR",
+       "edge": "SEQUITUR is an algorithm that infers a hierarchical structure from a sequence of discrete symbols by replacing repeated phrases with a grammatical rule that generates the phrase, and continuing this process recursively."
+   }, {
+       "node_1": "hierarchical",
+       "node_2": "structure",
+       "edge": "The result of SEQUITUR's algorithm is a hierarchical representation of the original sequence, which offers insights into its lexical structure."
+   }, {
+       "node_1": "sequence",
+       "node_2": "discrete symbols",
+       "edge": "SEQUITUR operates on a sequence of discrete symbols."
+   }, {
+       "node_1": "grammatical",
+       "node_2": "rule",
+       "edge": "The algorithm replaces repeated phrases with a grammatical rule that generates the phrase."
+   }, {
+       "node_1": "constraint",
+       "node_2": "reduces",
+       "edge": "The method's two constraints reduce the size of the grammar."
+   }, {
+       "node_1": "structure",
+       "node_2": "produces",
+       "edge": "SEQUITUR produces structure as a by-product."
+   }, {
+       "node_1": "repeated",
+       "node_2": "phrases",
+       "edge": "The algorithm replaces repeated phrases with a grammatical rule that generates the phrase."
+   }, {
+       "node_1": "symbols",
+       "node_2": "input",
+       "edge": "SEQUITUR's implementation can process 50,000 symbols per second and has been applied to an extensive range of real world sequences."
+   }
+][
+   {
+       "node_1": "Case-Based Planning (CBP)",
+       "node_2": "Domain-independent planning",
+       "edge": "CBP is a way of scaling up domain-independent planning to solve large problems in complex domains."
+   },
+   {
+       "node_1": "CBP",
+       "node_2": "Performance improvements over generative (from-scratch) planning",
+       "edge": "CBP has been demonstrated to improve performance over generative (from-scratch) planning in solving large problems."
+   },
+   {
+       "node_1": "CBP",
+       "node_2": "Mis-retrieval problem",
+       "edge": "The success of CBP depends on these retrieval errors being relatively rare. This paper describes the design and implementation of a replay framework for the case-based planner DERSNLP+EBL."
+   },
+   {
+       "node_1": "DERSNLP+EBL",
+       "node_2": "Case library",
+       "edge": "DERSNLP+EBL extends current CBP methodology by incorporating explanation-based learning techniques that allow it to explain and learn from the retrieval failures it encounters."
+   },
+   {
+       "node_1": "DERSNLP+EBL",
+       "node_2": "Similarity judgements",
+       "edge": "These techniques are used to refine judgements about case similarity in response to feedback when a wrong decision has been made."
+   },
+   {
+       "node_1": "DERSNLP+EBL",
+       "node_2": "Multi-goal problems",
+       "edge": "Large problems are split and stored as single goal subproblems. Multi-goal problems are stored only when these smaller cases fail to be merged into a full solution."
+   },
+   {
+       "node_1": "DERSNLP+EBL",
+       "node_2": "Replay framework",
+       "edge": "An empirical evaluation of this approach demonstrates the advantage of learning from experienced retrieval failure."
+   }
+] 
+[
+   {
+       "node_1": "POMDPs",
+       "node_2": "approximation scheme",
+       "edge": "Proposed in this paper to solve POMDPs due to difficulty in solving them exactly."
+   }, {
+       "node_1": "POMDPs",
+       "node_2": "nondeterministic effects of actions, incomplete observability of state",
+       "edge": "Characteristics that make it a natural model for planning problems."
+   }, {
+       "node_1": "POMDPs",
+       "node_2": "region observable POMDP",
+       "edge": "Transformed POMDP proposed in this paper to make it easier to solve than the original one."
+   }, {
+       "node_1": "region observable POMDP",
+       "node_2": "oracle",
+       "edge": "Provides additional information by informing the planning agent that current state is within a certain region."
+   }, {
+       "node_1": "POMDPs",
+       "node_2": "original POMDP",
+       "node_3": "region observable POMDP",
+       "edge_1": "Transformed into region observable POMDP for approximation.",
+       "edge_2": "Original one is more difficult to solve than the transformed one."
+   }, {
+       "node_1": "approximation quality",
+       "node_2": "computational time",
+       "node_3": "tradeoff",
+       "edge_1": "Possible to find by controlling amount of additional information provided by oracle.",
+       "edge_2": "Allows for finding an appropriate balance between computation and approximation."
+   }, {
+       "node_1": "POMDPs",
+       "node_2": "exact algorithm",
+       "node_3": "new exact algorithm proposed in this paper",
+       "edge_1": "Facilitates study of region observability.",
+       "edge_2": "Significantly more efficient than previous exact algorithms."
+   }
+][
+   {
+       "node_1": "repeated game",
+       "node_2": "Nature",
+       "edge": "In a model of an agent-environment interaction, the repeated game is an appropriate tool for modeling interactions with Nature's changing state."
+   },
+   {
+       "node_1": "state selection strategy of Nature",
+       "node_2": "unknown",
+       "edge": "In a model of an agent-environment interaction, the feedback/reward function is initially unknown and the agent does not form a prior probability on Nature's state selection strategy."
+   },
+   {
+       "node_1": "agent",
+       "node_2": "Bayesian",
+       "edge": "In a model of an agent-environment interaction, the agent is not Bayesian and does not form a prior probability on his reward function."
+   },
+   {
+       "node_1": "perfect monitoring case",
+       "node_2": "imperfect monitoring case",
+       "edge": "In the study of feedback structures in partially observable processes, the perfect monitoring case refers to environments where the agent is able to observe the previous state as part of his feedback, while in the imperfect monitoring case all that is available to the agent is the reward obtained."
+   },
+   {
+       "node_1": "efficient stochastic policy",
+       "node_2": "optimal policy",
+       "edge": "In the perfect monitoring case, the existence of an efficient stochastic policy is proven that ensures a long-run optimality criterion with an arbitrarily high probability, where efficiency is measured in terms of rate of convergence."
+   },
+   {
+       "node_1": "competitive ratio",
+       "node_2": "optimality criterion",
+       "edge": "In the study of feedback structures, the competitive ratio criterion refers to the long-run optimality criterion used in our analysis."
+   },
+   {
+       "node_1": "deterministic efficient optimal strategy",
+       "node_2": "maxmin criterion",
+       "edge": "In the imperfect monitoring case, it is proven that a deterministic efficient optimal strategy exists under the maxmin criterion."
+   },
+   {
+       "node_1": "long-run optimality",
+       "node_2": "qualitative",
+       "edge": "Our approach to long-run optimality in feedback structures is qualitative, distinguishing it from previous work in this area."
+   }
+] 
+[
+   {
+      "node_1": "Local minima",
+      "node_2": "Plateaus with exits (benches)",
+      "edge": "Plateaus in local search algorithms for combinatorial search problems are characterized by the presence of both local minima and benches. Benches tend to be much larger than minima and may have very few exit states that local search algorithms can use to escape."
+   },
+   {
+      "node_1": "Local minima",
+      "node_2": "Small size",
+      "edge": "Local minima in randomly generated Boolean Satisfiability problems tend to be small, but occasionally may be very large."
+   },
+   {
+      "node_1": "Plateaus with exits (benches)",
+      "node_2": "Clusters",
+      "edge": "The solutions of randomly generated problem instances form clusters that behave similarly to local minima."
+   },
+   {
+      "node_1": "Local search algorithms",
+      "node_2": "Plateau moves",
+      "edge": "Frequently encountered in local search algorithms for combinatorial search problems, plateau moves refer to a sequence of states in which it is impossible to improve the value of the objective function."
+   },
+   {
+      "node_1": "Local search algorithms",
+      "node_2": "Escaping plateaus",
+      "edge": "Escaping local minima without unsatisfying a large number of clauses can be computationally expensive if the local minimum is large."
+   }
+][
+   {
+       "node_1": "bidirectional heuristic search",
+       "node_2": "viability of bidirectional heuristic search",
+       "edge": "The assessment of bidirectional heuristic search has been incorrect since it was first published more than a quarter of a century ago. Based on the finding that the conjecture about passing search frontiers is wrong, it is proposed that bidirectional heuristic search be reconsidered as it appears to be better for solving certain difficult problems than corresponding unidirectional search, providing some evidence for its usefulness which was long neglected."
+   }, {
+       "node_1": "bidirectional heuristic search",
+       "node_2": "misunderstanding about the reasons behind it",
+       "edge": "For quite a long time, this search strategy did not achieve the expected results, and there was a major misunderstanding about the reasons behind it."
+   }, {
+       "node_1": "search frontiers passing each other",
+       "node_2": "misconception",
+       "edge": "Although there is still wide-spread belief that bidirectional heuristic search is afflicted by the problem of search frontiers passing each other, we demonstrate that this conjecture is wrong."
+   }, {
+       "node_1": "bidirectional heuristic search",
+       "node_2": "new generic approach",
+       "edge": "Based on this finding, we present both a new generic approach to bidirectional heuristic search and a new approach to dynamically improving heuristic values that is feasible in bidirectional search only."
+   }, {
+       "node_1": "bidirectional heuristic search",
+       "node_2": "traditional approaches",
+       "edge": "These approaches are put into perspective with both the traditional and more recently proposed approaches in order to facilitate a better overall understanding."
+   }
+][
+   {
+       "node_1": "Horn approximation",
+       "node_2": "Set of formulas represented by Horn approximation",
+       "edge": "Represents the relationship between a Horn approximation and the set of formulas it represents. This can be seen as an illustration of the fact that a Horn approximation provides an efficient representation of the underlying set of formulas."
+   }, {
+       "node_1": "Upper Horn formula",
+       "node_2": "Lower Horn formula",
+       "edge": "Represents the relationship between an upper and lower Horn formula, which together constitute a Horn approximation. This can be seen as an illustration of how these formulas work in tandem to provide an efficient representation of the underlying set of formulas."
+   }, {
+       "node_1": "Horn envelope",
+       "node_2": "Minimum-change update",
+       "edge": "Represents the relationship between a Horn approximation and its minimum-change update. This can be seen as an illustration of how the Horn envelope is computed when updating a Horn formula by a clause."
+   }, {
+       "node_1": "Horn core",
+       "node_2": "Minimum-change update",
+       "edge": "Represents the relationship between a lower Horn formula and its minimum-change update. This can be seen as an illustration of how the Horn core is computed when updating a Horn formula by a clause."
+   }, {
+       "node_1": "Efficiency",
+       "node_2": "Horn approximation",
+       "edge": "Represents the relationship between the efficiency and the use of Horn approximations. This can be seen as an illustration of how Horn approximations provide efficient representation of sets of formulas."
+   }, {
+       "node_1": "Inductivity",
+       "node_2": "Model-based updates",
+       "edge": "Represents the relationship between inductivity and model-based updates. This can be seen as an illustration of how this scheme preserves positive properties of the represented sets of formulas during updates."
+   }, {
+       "node_1": "Complexity drawbacks",
+       "node_2": "Theory update and revision schemes",
+       "edge": "Represents the relationship between complexity drawbacks and theory update and revision schemes. This can be seen as an illustration of how these schemes suffer from serious complexity-theoretic impediments."
+   }
+][
+   {
+       "node_1": "nonmonotonicity",
+       "node_2": "Artificial Intelligence",
+       "edge": "Nonmonotonic logic is a characteristic of many logics used in Artificial Intelligence."
+   },
+   {
+       "node_1": "formulae",
+       "node_2": "consequences",
+       "edge": "Adding a formula to the premises can invalidate some consequences in nonmonotonic logic."
+   },
+   {
+       "node_1": "safely added formulae",
+       "node_2": "nonmonotonicity",
+       "edge": "Exist formulae that can always be safely added to the premises without destroying any consequences in nonmonotonic logic."
+   },
+   {
+       "node_1": "formulae",
+       "node_2": "conservative",
+       "edge": "When a formula is a consequence, it cannot be invalidated when adding any formula to the premises in conservative logic."
+   },
+   {
+       "node_1": "preferential logics",
+       "node_2": "formulae preserving truth-value",
+       "edge": "The formulae whose truth-value is preserved along the ordering are closely linked to preferential logics."
+   },
+   {
+       "node_1": "preferential logics",
+       "node_2": "theorem provers",
+       "edge": "The results in this paper may improve the efficiency of theorem provers for preferential logics."
+   }
+][
+   {
+       "node_1": "domain dependent approaches",
+       "node_2": "automatically synthesized domain independent planners",
+       "edge": "in this paper, we investigate the feasibility of using existing automated software synthesis tools to support such synthesis. Specifically, we describe an architecture called CLAY in which the Kestrel Interactive Development System (KIDS) is used to derive a domain-customized planner through a semi-automatic combination of a declarative theory of planning, and the declarative control knowledge specific to a given domain, to semi-automatically combine them to derive domain-customized planners. Our experiments show that the synthesized planners can outperform classical refinement planners (implemented as instantiations of UCP, Kambhampati & Srivastava, 1995), using the same control knowledge."
+   }, {
+       "node_1": "domain independent approaches",
+       "node_2": "automatically synthesized domain independent planners",
+       "edge": "Existing plan synthesis approaches in artificial intelligence fall into two categories -- domain independent and domain dependent. The domain independent approaches are applicable across a variety of domains, but may not be very efficient in any one given domain."
+   }
+][
+   {
+       "node_1": "machine learning datasets",
+       "node_2": "quick counting",
+       "edge": "The paper introduces new algorithms and data structures for performing quick counting on machine learning datasets."
+   },
+   {
+       "node_1": "constructing contingency tables",
+       "node_2": "quick counting",
+       "edge": "The focusing of the paper is on the counting task of constructing contingency tables, which can also be applied to counting the number of records in a dataset that match conjunctive queries."
+   },
+   {
+       "node_1": "independent of the number of records",
+       "node_2": "loglinear in the number of non-zero entries",
+       "edge": "The costs of these operations can be shown to be independent of the number of records in the dataset and loglinear in the number of non-zero entries in the contingency table."
+   },
+   {
+       "node_1": "ADtree",
+       "node_2": "minimize memory use",
+       "edge": "We provide a very sparse data structure, the ADtree, to minimize memory use."
+   },
+   {
+       "node_1": "Assumptions",
+       "node_2": "independent of the number of records",
+       "edge": "Subject to certain assumptions, the costs of these operations can be shown to be independent of the number of records in the dataset."
+   },
+   {
+       "node_1": "conjunctive queries",
+       "node_2": "counting the number of records",
+       "edge": "Our approach is also applicable to counting the number of records in a dataset that match conjunctive queries."
+   },
+   {
+       "node_1": "ADtree methods",
+       "node_2": "traditional direct counting approaches",
+       "edge": "We show how the ADtree can be used to accelerate Bayes net structure finding algorithms, rule learning algorithms, and feature selection algorithms, and we provide a number of empirical results comparing ADtree methods against traditional direct counting approaches."
+   },
+   {
+       "node_1": "merits",
+       "node_2": "ADtrees",
+       "edge": "We also discuss the possible uses of ADtrees in other machine learning methods, and discuss the merits of ADtrees in comparison with alternative representations such as kd-trees, R-trees and Frequent Sets."
+   }
+] 
+[
+   {
+      "node_1": "theory patching",
+      "node_2": "domain theory",
+      "edge": "In this paper, we consider the problem of theory patching for domain theories that are possibly flawed. The objective is to revise only the indicated components of the theory based on labeled training examples, such that the resulting theory correctly classifies all the training examples."
+   },
+   {
+      "node_1": "theory patching",
+      "node_2": "logical domain theories",
+      "edge": "Our concern in this paper is to determine for which classes of logical domain theories, the theory patching problem is tractable."
+   },
+   {
+      "node_1": "propositional and first-order domain theories",
+      "node_2": "theory patching",
+      "edge": "We consider both propositional and first-order domain theories for the theory patching problem."
+   },
+   {
+      "node_1": "logical domain theories",
+      "node_2": "stability",
+      "edge": "Determining stability is tractable if the input theory satisfies two conditions: that revisions to each theory component have monotonic effects on the classification of examples, and that theory components act independently in the classification of examples in the theory."
+   },
+   {
+      "node_1": "theory patching",
+      "node_2": "soundness and completeness",
+      "edge": "We also show how the concepts introduced can be used to determine the soundness and completeness of particular theory patching algorithms."
+   }
+]
